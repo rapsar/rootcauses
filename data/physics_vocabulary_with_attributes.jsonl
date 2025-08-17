@@ -1,0 +1,665 @@
+{"item": "Acceleration", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Acoustic impedance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Action (physics)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Adiabatic process", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Air resistance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Albedo", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Alfvén wave", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Ampère's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Amplitude", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Angular acceleration", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Angular displacement", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Angular frequency", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Angular momentum", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Angular velocity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Anharmonic oscillator", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Anisotropy", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Antinode", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Apparent magnitude", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Archimedes' principle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Artificial gravity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Astigmatism", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Atomic mass unit", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Avogadro's number", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Background radiation", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Band gap", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Barometric pressure", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Baryon number", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Beats (acoustics)", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Bernoulli's equation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Beta decay", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Binding energy", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Black body", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Black hole", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Bohr magneton", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Bohr radius", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Boltzmann constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Boltzmann distribution", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Bose-Einstein condensate", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Boundary conditions", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Bragg's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Brewster's angle", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Brownian motion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Bulk modulus", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Capacitance", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Capacitor", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Carnot cycle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Casimir effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Centripetal acceleration", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Centripetal force", "attributes": {"is_constant": false, "is_variable": true, "is_concept": false, "is_principle": false}}
+{"item": "Chain reaction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Chandrasekhar limit", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Charge", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Chemical potential", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Chirality", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Clausius inequality", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Coefficient of friction", "attributes": {"is_constant": false, "is_variable": true, "is_concept": false, "is_principle": false}}
+{"item": "Coefficient of performance", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Coefficient of restitution", "attributes": {"is_constant": false, "is_variable": true, "is_concept": false, "is_principle": false}}
+{"item": "Coefficient of thermal expansion", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Coherence (wave)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Collisions (elastic and inelastic)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Commutator (quantum mechanics)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Compton effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Conductance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Conduction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Conductor", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Confinement (quarks)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Conservation of angular momentum", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Conservation of charge", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Conservation of energy", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Conservation of linear momentum", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Conservation of mass", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Conservation of momentum", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Conservation of parity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Continuity equation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Continuous spectrum", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Coriolis force", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Coulomb barrier", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Coulomb blockade", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Coulomb force", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Coulomb's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Critical angle", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Critical damping", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Critical density", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Critical point (phase transition)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Curie temperature", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Cyclotron frequency", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Damped oscillator", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Dark energy", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Dark matter", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "De Broglie wavelength", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Debye model", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Debye temperature", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Decibel", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Decay constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Degree of freedom", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Delta function", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Density", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Depolarization", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Depletion region", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Depolarization current", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Destructive interference", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Diffraction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Diffraction grating", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Diffusion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Dipole moment", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Dirac constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Dirac delta function", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Displacement", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Dispersion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Doppler effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Double slit experiment", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Drag force", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Drift velocity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Driven oscillator", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Dynamic viscosity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Eddy currents", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Effective mass", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Elastic modulus", "attributes": {"is_constant": false, "is_variable": true, "is_concept": false, "is_principle": false}}
+{"item": "Elastic potential energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Elastic scattering", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Elasticity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Electric dipole", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Electric field", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Electric flux", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Electric potential", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Electric potential energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Electrical conductivity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Electrical resistance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Electromagnetic field", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Electromagnetic induction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Electromagnetic radiation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Electromagnetic spectrum", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Electromotive force", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Electron affinity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Electron configuration", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Electron degeneracy pressure", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Electron mobility", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Electron volt", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Electrostatic equilibrium", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Electrostatic force", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Energy band", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Energy conservation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Energy gap", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Equation of state", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Equilibrium", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Equipartition theorem", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Escape velocity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Evanescent wave", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Event horizon", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Exclusion principle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Expansion (cosmology)", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Extinction coefficient", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Faraday constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Faraday's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Fermi energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Fermi level", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Fermi temperature", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Fermion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Fictitious force", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Field lines", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Fine structure constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "First law of thermodynamics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Flux", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Force", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Foucault pendulum", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Fraunhofer diffraction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Free expansion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Free fall", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Free path", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Frequency", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Fresnel equations", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Friction", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Frictional force", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Friedmann equations", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Galilean invariance", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Galilean relativity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Gamma decay", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Gamma factor (Lorentz)", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Gauss's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Geodesic", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Geometric optics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Gibbs energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Gibbs phase rule", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Ginzburg-Landau theory", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Gluon", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Gravitational constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Gravitational field", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Gravitational potential", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Gravitational potential energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Gravitational redshift", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Gravitational wave", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Gravity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Ground state", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Group velocity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Gyromagnetic ratio", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Half-life", "attributes": {"is_constant": true, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Hall effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Hamiltonian", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Hardness (mineral)", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Harmonic oscillator", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Heat", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Heat capacity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Heat conduction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Heat engine", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Heat of fusion", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Heat of vaporization", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Heisenberg uncertainty principle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Helicity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Higgs boson", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Hubble constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Hubble's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Hydraulic press", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Hydrodynamics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Hydrostatic equilibrium", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Hydrostatic pressure", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Hyperfine structure", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Ideal gas law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Impedance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Impact parameter", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Impulse", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Inductance", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Induced current", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Inductive reactance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Inelastic collision", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Inertia", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Inertial frame", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Index of refraction", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Indistinguishability (quantum)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Intensity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Interference", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Internal energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Ionization energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Isentropic process", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Isobaric process", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Isochoric process", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Isothermal process", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Joule", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Joule heating", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Josephson effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Kelvin", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Kepler's laws", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Kinetic energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Kirchhoff's circuit laws", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Kirchhoff's law of thermal radiation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Klein–Gordon equation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Lagrangian", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Lamb shift", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Laminar flow", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Larmor precession", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Lattice energy", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Lattice vibration", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Law of conservation of mass", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Law of inertia", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Law of reflection", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Law of refraction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Law of universal gravitation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Lenz's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Lepton number", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Light cone", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Linear momentum", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Linearity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Line spectrum", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Logarithmic decrement", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Lorentz contraction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Lorentz force", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Lorentz transformation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Luminosity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Lyman series", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Magnetic dipole", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Magnetic field", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Magnetic flux", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Magnetic flux density", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Magnetic moment", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Magnetic permeability", "attributes": {"is_constant": false, "is_variable": true, "is_concept": false, "is_principle": false}}
+{"item": "Magnetic potential", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Magnetization", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Magnification", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Malus's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Mass", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Mass defect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Mass number", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Mass-energy equivalence", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Matter wave", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Max Planck constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Maxwell's equations", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Mean free path", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Mechanical advantage", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Mechanical energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Mechanical resonance", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Mechanical waves", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Medium (wave propagation)", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Meissner effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Melting point", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Meson", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Microscopic reversibility", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Michelson–Morley experiment", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Moment of inertia", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Momentum", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Mohr's circle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Molecular dynamics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Molecular orbital", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Molar heat capacity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Molarity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Mole", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Mossbauer effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Muon", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Mutual inductance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Natural frequency", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Neutrino", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Neutron star", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Newton", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Newton's first law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Newton's law of cooling", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Newton's law of universal gravitation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Newton's laws of motion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Newton's second law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Newton's third law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Node (wave)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Non-Newtonian fluid", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Noninertial frame", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Normal force", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Nuclear binding energy", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Nuclear fission", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Nuclear force", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Nuclear fusion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Nuclear magnetic resonance", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Nuclear reaction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Nucleon", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Ohm", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Ohm's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Optical activity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Optical axis", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Optical isomerism", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Optical path length", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Orbital angular momentum", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Order parameter", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Oscillation", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Outgassing", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Pauli exclusion principle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Peak voltage", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Penetration depth", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Percolation threshold", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Period (oscillation)", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Permeability (magnetic)", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Permittivity", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Perpetual motion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Phase space", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Phase velocity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Photoelectric effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Photon", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Photonic crystal", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Photosphere", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Physical constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Piezoelectricity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Planar wave", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Planck constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Planck length", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Planck mass", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Planck time", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Plasma", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Plasmon", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Poiseuille's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Polar cap", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Polarization", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Polytropic process", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Potential difference", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Potential energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Power", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Precession", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Pressure", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Primary coil", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Principle of equivalence", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Principle of least action", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Principle of superposition", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Propagation constant", "attributes": {"is_constant": false, "is_variable": true, "is_concept": false, "is_principle": false}}
+{"item": "Proper time", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Proton", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Pseudovector", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Pulsar", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Quantum chromodynamics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quantum efficiency", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Quantum entanglement", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quantum field theory", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quantum Hall effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quantum harmonic oscillator", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quantum mechanics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quantum number", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Quantum tunneling", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quark", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Radiant flux", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Radiant intensity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Radiation pressure", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Radioactivity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Radiowave", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Random walk", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Rayleigh criterion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Rayleigh scattering", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Reactance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Recombination", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Redshift", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Refractive index", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Relativity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Resistance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Resistivity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Resonance", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Rest energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Reynolds number", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Ridge (X-ray)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Riemann curvature tensor", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Rigid body", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Right-hand rule", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Roche limit", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Rotational inertia", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Rotational kinetic energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Rotational motion", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Rutherford scattering", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Scalar field", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Scalar quantity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Schrödinger equation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Scattering cross section", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Scattering factor", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Schottky barrier", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Second law of thermodynamics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Semiconductors", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Shear modulus", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Shear strain", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Shear stress", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Shell (atomic)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Shock wave", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Sigma bond", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Simple harmonic motion", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Singularity (black hole)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Snell's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Solar constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Solid angle", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Solubility", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Solute", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Solvent", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Sound intensity level", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Sound wave", "attributes": {"is_constant": false, "is_variable": true, "is_concept": false, "is_principle": false}}
+{"item": "Specific gravity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Specific heat", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Specific latent heat", "attributes": {"is_constant": true, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Specific volume", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Spectral line", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Spectral radiance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Spectral resolution", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Spin", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Spin-orbit coupling", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Spontaneous emission", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Standing wave", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "State function", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Statistical mechanics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Stefan–Boltzmann constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Stefan–Boltzmann law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Stellar evolution", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Stellar nucleosynthesis", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Stokes' law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Stokes parameter", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Strain", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Streamline", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Stress", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Stress tensor", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Strong nuclear force", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Strouhal number", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Structural phase transition", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Subatomic particle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Sublimation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Superconductor", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Supercooling", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Superfluidity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Surface charge", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Surface tension", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Symmetry breaking", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Synchrotron radiation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "System (thermodynamics)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Temperature", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Tension (physics)", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Terminal velocity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Thermal conduction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Thermal conductivity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Thermal energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Thermal equilibrium", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Thermal expansion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Thermal radiation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Thermodynamic equilibrium", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Thermodynamic potential", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Thermodynamics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Thin lens equation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Threshold frequency", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Time dilation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Torque", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Total internal reflection", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Translational motion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Transverse wave", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Triple point", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Turbulent flow", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Twist (tensor)", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Ultraviolet catastrophe", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Uncertainty principle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Unified field theory", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Unit cell (crystal)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Universal gravitation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Van der Waals force", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Vector field", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Vector potential", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Vector quantity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Viscosity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Voltage", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Volt", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Volumetric flow rate", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Wave equation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Wave number", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Wavelength", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Wave-particle duality", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Weak nuclear force", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Weber (unit)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "White dwarf", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Work", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Work function", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Young's modulus", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Zeeman effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Zener diode", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Zero-point energy", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Zeta potential", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Zitterbewegung", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Admittance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Antiferromagnetism", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Average velocity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Band structure", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Berry phase", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Blackbody radiation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Bloch wave", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Boundary layer", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Brillouin zone", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Bulk viscosity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Canonical ensemble", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Cathode", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Centrifugal force", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Cooper pair", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Cosmic background radiation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Cosmic microwave background", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Cosmic ray", "attributes": {"is_constant": false, "is_variable": true, "is_concept": false, "is_principle": false}}
+{"item": "Cosmological constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Coulomb gauge", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Critical exponents", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "de Sitter space", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Diffusion current", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Electric susceptibility", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Electrochemical cell", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Electroluminescence", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Entropy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "EPR paradox", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Event (relativity)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Exchange interaction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Ferroelectricity", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Ferromagnetism", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Fictitious magnetic field", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Flux quantum", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Foucault currents", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Frank–Hertz experiment", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Fresnel zone", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Gauge boson", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Geometric phase", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Gibbs paradox", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Ginzburg criterion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Gravitational lensing", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Harmonic mean", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Heterojunction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Hubble volume", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Hund's rules", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Hybridization (quantum chemistry)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Hydrogen line", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Hysteresis", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Imaginary mass", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Josephson junction", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Kaon", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Kerr effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Kosmotrope", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Landé g-factor", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Lattice constant", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Lattice parameter", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Least mean squares", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Lie algebra", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Magnon", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Magnetic anisotropy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Magnetic domain", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Magnetic induction", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Magnus effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Majorana fermion", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Matrix element", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Meissner–Ochsenfeld effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Metastable state", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Microcanonical ensemble", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Mobility (physic)", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Muon neutrino", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Neutral current", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Neutron capture", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Nodes (oscillation)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Nonlinear optics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Normalization (quantum mechanics)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Oblate spheroid", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Occupation number", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Optical depth", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Paramagnetism", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Parity (physics)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Pascal's law", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Peculiar velocity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Permeance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Phase shift", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Phonon", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Photon polarization", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Photovoltaic effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Planck charge", "attributes": {"is_constant": true, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Poincaré group", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Polar coordinates", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Pressure gradient", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Pseudospin", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quantum dot", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quantum Hall effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quantum spin liquid", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quantum statistics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quasiparticle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Quasistatic process", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Radiative transfer", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Random phase approximation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Ray", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Reciprocal lattice", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Residual resistivity", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Resistive heating", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Retarded potential", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Rotational symmetry", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Scattering amplitude", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Scintillation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Seebeck effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Sigma particle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Soliton", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Spectrometer", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": false}}
+{"item": "Spin polarization", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Spin statistics theorem", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Spintronics", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Stark effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Statistical ensemble", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Superexchange", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Superlattice", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Superparamagnetism", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Superposition principle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Surface plasmon", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Surface states", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Symmetry operation", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Tachyon", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Thermal noise", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Thermal wavelength", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Thomson scattering", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Topology (physics)", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Transconductance", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Tunnel effect", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Vacuum energy", "attributes": {"is_constant": false, "is_variable": true, "is_concept": true, "is_principle": false}}
+{"item": "Vector boson", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Virial theorem", "attributes": {"is_constant": false, "is_variable": false, "is_concept": false, "is_principle": true}}
+{"item": "Weak equivalence principle", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": true}}
+{"item": "Yukawa potential", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}
+{"item": "Zero crossing", "attributes": {"is_constant": false, "is_variable": false, "is_concept": true, "is_principle": false}}

@@ -1,0 +1,42 @@
+Generate a comprehensive list of exactly {num_concepts} unique physics concepts, principles, variables, and constants. 
+    Include concepts from all areas of physics such as:
+    - Classical mechanics
+    - Thermodynamics
+    - Electromagnetism
+    - Quantum mechanics
+    - Relativity
+    - Optics
+    - Condensed matter physics
+    - Astrophysics
+    
+    Examples include:
+    
+    Variables/Constants:
+
+    Speed of light
+    Position
+    Velocity 
+    Acceleration
+    Viscosity
+    Charge
+    Dynamic viscosity
+    Resistance
+    Conductance
+    Kinetic energy
+    Potential energy
+
+    Laws/Principles:
+
+    Conservation of energy
+    Second law of thermodynamics
+    Energy-entropy competition
+    Conservation of momentum
+
+
+    Concepts:
+    Energy
+    Entropy
+
+    Format your response as a JSON array of strings, where each string is a concept name.
+
+    Only return the JSON array, no additional text.

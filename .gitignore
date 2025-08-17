@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Project-specific ignores
+checkpoints/
+sandbox/
+physics-embedding-model-large-*/
+
+# Logs and outputs
+*.log
+*.out
+*.tmp

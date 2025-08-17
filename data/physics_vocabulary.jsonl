@@ -1,0 +1,665 @@
+{"item": "Acceleration"}
+{"item": "Acoustic impedance"}
+{"item": "Action (physics)"}
+{"item": "Adiabatic process"}
+{"item": "Air resistance"}
+{"item": "Albedo"}
+{"item": "Alfvén wave"}
+{"item": "Ampère's law"}
+{"item": "Amplitude"}
+{"item": "Angular acceleration"}
+{"item": "Angular displacement"}
+{"item": "Angular frequency"}
+{"item": "Angular momentum"}
+{"item": "Angular velocity"}
+{"item": "Anharmonic oscillator"}
+{"item": "Anisotropy"}
+{"item": "Antinode"}
+{"item": "Apparent magnitude"}
+{"item": "Archimedes' principle"}
+{"item": "Artificial gravity"}
+{"item": "Astigmatism"}
+{"item": "Atomic mass unit"}
+{"item": "Avogadro's number"}
+{"item": "Background radiation"}
+{"item": "Band gap"}
+{"item": "Barometric pressure"}
+{"item": "Baryon number"}
+{"item": "Beats (acoustics)"}
+{"item": "Bernoulli's equation"}
+{"item": "Beta decay"}
+{"item": "Binding energy"}
+{"item": "Black body"}
+{"item": "Black hole"}
+{"item": "Bohr magneton"}
+{"item": "Bohr radius"}
+{"item": "Boltzmann constant"}
+{"item": "Boltzmann distribution"}
+{"item": "Bose-Einstein condensate"}
+{"item": "Boundary conditions"}
+{"item": "Bragg's law"}
+{"item": "Brewster's angle"}
+{"item": "Brownian motion"}
+{"item": "Bulk modulus"}
+{"item": "Capacitance"}
+{"item": "Capacitor"}
+{"item": "Carnot cycle"}
+{"item": "Casimir effect"}
+{"item": "Centripetal acceleration"}
+{"item": "Centripetal force"}
+{"item": "Chain reaction"}
+{"item": "Chandrasekhar limit"}
+{"item": "Charge"}
+{"item": "Chemical potential"}
+{"item": "Chirality"}
+{"item": "Clausius inequality"}
+{"item": "Coefficient of friction"}
+{"item": "Coefficient of performance"}
+{"item": "Coefficient of restitution"}
+{"item": "Coefficient of thermal expansion"}
+{"item": "Coherence (wave)"}
+{"item": "Collisions (elastic and inelastic)"}
+{"item": "Commutator (quantum mechanics)"}
+{"item": "Compton effect"}
+{"item": "Conductance"}
+{"item": "Conduction"}
+{"item": "Conductor"}
+{"item": "Confinement (quarks)"}
+{"item": "Conservation of angular momentum"}
+{"item": "Conservation of charge"}
+{"item": "Conservation of energy"}
+{"item": "Conservation of linear momentum"}
+{"item": "Conservation of mass"}
+{"item": "Conservation of momentum"}
+{"item": "Conservation of parity"}
+{"item": "Continuity equation"}
+{"item": "Continuous spectrum"}
+{"item": "Coriolis force"}
+{"item": "Coulomb barrier"}
+{"item": "Coulomb blockade"}
+{"item": "Coulomb force"}
+{"item": "Coulomb's law"}
+{"item": "Critical angle"}
+{"item": "Critical damping"}
+{"item": "Critical density"}
+{"item": "Critical point (phase transition)"}
+{"item": "Curie temperature"}
+{"item": "Cyclotron frequency"}
+{"item": "Damped oscillator"}
+{"item": "Dark energy"}
+{"item": "Dark matter"}
+{"item": "De Broglie wavelength"}
+{"item": "Debye model"}
+{"item": "Debye temperature"}
+{"item": "Decibel"}
+{"item": "Decay constant"}
+{"item": "Degree of freedom"}
+{"item": "Delta function"}
+{"item": "Density"}
+{"item": "Depolarization"}
+{"item": "Depletion region"}
+{"item": "Depolarization current"}
+{"item": "Destructive interference"}
+{"item": "Diffraction"}
+{"item": "Diffraction grating"}
+{"item": "Diffusion"}
+{"item": "Dipole moment"}
+{"item": "Dirac constant"}
+{"item": "Dirac delta function"}
+{"item": "Displacement"}
+{"item": "Dispersion"}
+{"item": "Doppler effect"}
+{"item": "Double slit experiment"}
+{"item": "Drag force"}
+{"item": "Drift velocity"}
+{"item": "Driven oscillator"}
+{"item": "Dynamic viscosity"}
+{"item": "Eddy currents"}
+{"item": "Effective mass"}
+{"item": "Elastic modulus"}
+{"item": "Elastic potential energy"}
+{"item": "Elastic scattering"}
+{"item": "Elasticity"}
+{"item": "Electric dipole"}
+{"item": "Electric field"}
+{"item": "Electric flux"}
+{"item": "Electric potential"}
+{"item": "Electric potential energy"}
+{"item": "Electrical conductivity"}
+{"item": "Electrical resistance"}
+{"item": "Electromagnetic field"}
+{"item": "Electromagnetic induction"}
+{"item": "Electromagnetic radiation"}
+{"item": "Electromagnetic spectrum"}
+{"item": "Electromotive force"}
+{"item": "Electron affinity"}
+{"item": "Electron configuration"}
+{"item": "Electron degeneracy pressure"}
+{"item": "Electron mobility"}
+{"item": "Electron volt"}
+{"item": "Electrostatic equilibrium"}
+{"item": "Electrostatic force"}
+{"item": "Energy"}
+{"item": "Energy band"}
+{"item": "Energy conservation"}
+{"item": "Energy gap"}
+{"item": "Equation of state"}
+{"item": "Equilibrium"}
+{"item": "Equipartition theorem"}
+{"item": "Escape velocity"}
+{"item": "Evanescent wave"}
+{"item": "Event horizon"}
+{"item": "Exclusion principle"}
+{"item": "Expansion (cosmology)"}
+{"item": "Extinction coefficient"}
+{"item": "Faraday constant"}
+{"item": "Faraday's law"}
+{"item": "Fermi energy"}
+{"item": "Fermi level"}
+{"item": "Fermi temperature"}
+{"item": "Fermion"}
+{"item": "Fictitious force"}
+{"item": "Field lines"}
+{"item": "Fine structure constant"}
+{"item": "First law of thermodynamics"}
+{"item": "Flux"}
+{"item": "Force"}
+{"item": "Foucault pendulum"}
+{"item": "Fraunhofer diffraction"}
+{"item": "Free expansion"}
+{"item": "Free fall"}
+{"item": "Free path"}
+{"item": "Frequency"}
+{"item": "Fresnel equations"}
+{"item": "Friction"}
+{"item": "Frictional force"}
+{"item": "Friedmann equations"}
+{"item": "Galilean invariance"}
+{"item": "Galilean relativity"}
+{"item": "Gamma decay"}
+{"item": "Gamma factor (Lorentz)"}
+{"item": "Gauss's law"}
+{"item": "Geodesic"}
+{"item": "Geometric optics"}
+{"item": "Gibbs energy"}
+{"item": "Gibbs phase rule"}
+{"item": "Ginzburg-Landau theory"}
+{"item": "Gluon"}
+{"item": "Gravitational constant"}
+{"item": "Gravitational field"}
+{"item": "Gravitational potential"}
+{"item": "Gravitational potential energy"}
+{"item": "Gravitational redshift"}
+{"item": "Gravitational wave"}
+{"item": "Gravity"}
+{"item": "Ground state"}
+{"item": "Group velocity"}
+{"item": "Gyromagnetic ratio"}
+{"item": "Half-life"}
+{"item": "Hall effect"}
+{"item": "Hamiltonian"}
+{"item": "Hardness (mineral)"}
+{"item": "Harmonic oscillator"}
+{"item": "Heat"}
+{"item": "Heat capacity"}
+{"item": "Heat conduction"}
+{"item": "Heat engine"}
+{"item": "Heat of fusion"}
+{"item": "Heat of vaporization"}
+{"item": "Heisenberg uncertainty principle"}
+{"item": "Helicity"}
+{"item": "Higgs boson"}
+{"item": "Hubble constant"}
+{"item": "Hubble's law"}
+{"item": "Hydraulic press"}
+{"item": "Hydrodynamics"}
+{"item": "Hydrostatic equilibrium"}
+{"item": "Hydrostatic pressure"}
+{"item": "Hyperfine structure"}
+{"item": "Ideal gas law"}
+{"item": "Impedance"}
+{"item": "Impact parameter"}
+{"item": "Impulse"}
+{"item": "Inductance"}
+{"item": "Induced current"}
+{"item": "Inductive reactance"}
+{"item": "Inelastic collision"}
+{"item": "Inertia"}
+{"item": "Inertial frame"}
+{"item": "Index of refraction"}
+{"item": "Indistinguishability (quantum)"}
+{"item": "Intensity"}
+{"item": "Interference"}
+{"item": "Internal energy"}
+{"item": "Ionization energy"}
+{"item": "Isentropic process"}
+{"item": "Isobaric process"}
+{"item": "Isochoric process"}
+{"item": "Isothermal process"}
+{"item": "Joule"}
+{"item": "Joule heating"}
+{"item": "Josephson effect"}
+{"item": "Kelvin"}
+{"item": "Kepler's laws"}
+{"item": "Kinetic energy"}
+{"item": "Kirchhoff's circuit laws"}
+{"item": "Kirchhoff's law of thermal radiation"}
+{"item": "Klein–Gordon equation"}
+{"item": "Lagrangian"}
+{"item": "Lamb shift"}
+{"item": "Laminar flow"}
+{"item": "Larmor precession"}
+{"item": "Lattice energy"}
+{"item": "Lattice vibration"}
+{"item": "Law of conservation of mass"}
+{"item": "Law of inertia"}
+{"item": "Law of reflection"}
+{"item": "Law of refraction"}
+{"item": "Law of universal gravitation"}
+{"item": "Lenz's law"}
+{"item": "Lepton number"}
+{"item": "Light cone"}
+{"item": "Linear momentum"}
+{"item": "Linearity"}
+{"item": "Line spectrum"}
+{"item": "Logarithmic decrement"}
+{"item": "Lorentz contraction"}
+{"item": "Lorentz force"}
+{"item": "Lorentz transformation"}
+{"item": "Luminosity"}
+{"item": "Lyman series"}
+{"item": "Magnetic dipole"}
+{"item": "Magnetic field"}
+{"item": "Magnetic flux"}
+{"item": "Magnetic flux density"}
+{"item": "Magnetic moment"}
+{"item": "Magnetic permeability"}
+{"item": "Magnetic potential"}
+{"item": "Magnetization"}
+{"item": "Magnification"}
+{"item": "Malus's law"}
+{"item": "Mass"}
+{"item": "Mass defect"}
+{"item": "Mass number"}
+{"item": "Mass-energy equivalence"}
+{"item": "Matter wave"}
+{"item": "Max Planck constant"}
+{"item": "Maxwell's equations"}
+{"item": "Mean free path"}
+{"item": "Mechanical advantage"}
+{"item": "Mechanical energy"}
+{"item": "Mechanical resonance"}
+{"item": "Mechanical waves"}
+{"item": "Medium (wave propagation)"}
+{"item": "Meissner effect"}
+{"item": "Melting point"}
+{"item": "Meson"}
+{"item": "Microscopic reversibility"}
+{"item": "Michelson–Morley experiment"}
+{"item": "Moment of inertia"}
+{"item": "Momentum"}
+{"item": "Mohr's circle"}
+{"item": "Molecular dynamics"}
+{"item": "Molecular orbital"}
+{"item": "Molar heat capacity"}
+{"item": "Molarity"}
+{"item": "Mole"}
+{"item": "Mossbauer effect"}
+{"item": "Muon"}
+{"item": "Mutual inductance"}
+{"item": "Natural frequency"}
+{"item": "Neutrino"}
+{"item": "Neutron star"}
+{"item": "Newton"}
+{"item": "Newton's first law"}
+{"item": "Newton's law of cooling"}
+{"item": "Newton's law of universal gravitation"}
+{"item": "Newton's laws of motion"}
+{"item": "Newton's second law"}
+{"item": "Newton's third law"}
+{"item": "Node (wave)"}
+{"item": "Non-Newtonian fluid"}
+{"item": "Noninertial frame"}
+{"item": "Normal force"}
+{"item": "Nuclear binding energy"}
+{"item": "Nuclear fission"}
+{"item": "Nuclear force"}
+{"item": "Nuclear fusion"}
+{"item": "Nuclear magnetic resonance"}
+{"item": "Nuclear reaction"}
+{"item": "Nucleon"}
+{"item": "Ohm"}
+{"item": "Ohm's law"}
+{"item": "Optical activity"}
+{"item": "Optical axis"}
+{"item": "Optical isomerism"}
+{"item": "Optical path length"}
+{"item": "Orbital angular momentum"}
+{"item": "Order parameter"}
+{"item": "Oscillation"}
+{"item": "Outgassing"}
+{"item": "Pauli exclusion principle"}
+{"item": "Peak voltage"}
+{"item": "Penetration depth"}
+{"item": "Percolation threshold"}
+{"item": "Period (oscillation)"}
+{"item": "Permeability (magnetic)"}
+{"item": "Permittivity"}
+{"item": "Perpetual motion"}
+{"item": "Phase space"}
+{"item": "Phase velocity"}
+{"item": "Photoelectric effect"}
+{"item": "Photon"}
+{"item": "Photonic crystal"}
+{"item": "Photosphere"}
+{"item": "Physical constant"}
+{"item": "Piezoelectricity"}
+{"item": "Planar wave"}
+{"item": "Planck constant"}
+{"item": "Planck length"}
+{"item": "Planck mass"}
+{"item": "Planck time"}
+{"item": "Plasma"}
+{"item": "Plasmon"}
+{"item": "Poiseuille's law"}
+{"item": "Polar cap"}
+{"item": "Polarization"}
+{"item": "Polytropic process"}
+{"item": "Potential difference"}
+{"item": "Potential energy"}
+{"item": "Power"}
+{"item": "Precession"}
+{"item": "Pressure"}
+{"item": "Primary coil"}
+{"item": "Principle of equivalence"}
+{"item": "Principle of least action"}
+{"item": "Principle of superposition"}
+{"item": "Propagation constant"}
+{"item": "Proper time"}
+{"item": "Proton"}
+{"item": "Pseudovector"}
+{"item": "Pulsar"}
+{"item": "Quantum chromodynamics"}
+{"item": "Quantum efficiency"}
+{"item": "Quantum entanglement"}
+{"item": "Quantum field theory"}
+{"item": "Quantum Hall effect"}
+{"item": "Quantum harmonic oscillator"}
+{"item": "Quantum mechanics"}
+{"item": "Quantum number"}
+{"item": "Quantum tunneling"}
+{"item": "Quark"}
+{"item": "Radiant flux"}
+{"item": "Radiant intensity"}
+{"item": "Radiation pressure"}
+{"item": "Radioactivity"}
+{"item": "Radiowave"}
+{"item": "Random walk"}
+{"item": "Rayleigh criterion"}
+{"item": "Rayleigh scattering"}
+{"item": "Reactance"}
+{"item": "Recombination"}
+{"item": "Redshift"}
+{"item": "Refractive index"}
+{"item": "Relativity"}
+{"item": "Resistance"}
+{"item": "Resistivity"}
+{"item": "Resonance"}
+{"item": "Rest energy"}
+{"item": "Reynolds number"}
+{"item": "Ridge (X-ray)"}
+{"item": "Riemann curvature tensor"}
+{"item": "Rigid body"}
+{"item": "Right-hand rule"}
+{"item": "Roche limit"}
+{"item": "Rotational inertia"}
+{"item": "Rotational kinetic energy"}
+{"item": "Rotational motion"}
+{"item": "Rutherford scattering"}
+{"item": "Scalar field"}
+{"item": "Scalar quantity"}
+{"item": "Schrödinger equation"}
+{"item": "Scattering cross section"}
+{"item": "Scattering factor"}
+{"item": "Schottky barrier"}
+{"item": "Second law of thermodynamics"}
+{"item": "Semiconductors"}
+{"item": "Shear modulus"}
+{"item": "Shear strain"}
+{"item": "Shear stress"}
+{"item": "Shell (atomic)"}
+{"item": "Shock wave"}
+{"item": "Sigma bond"}
+{"item": "Simple harmonic motion"}
+{"item": "Singularity (black hole)"}
+{"item": "Snell's law"}
+{"item": "Solar constant"}
+{"item": "Solid angle"}
+{"item": "Solubility"}
+{"item": "Solute"}
+{"item": "Solvent"}
+{"item": "Sound intensity level"}
+{"item": "Sound wave"}
+{"item": "Specific gravity"}
+{"item": "Specific heat"}
+{"item": "Specific latent heat"}
+{"item": "Specific volume"}
+{"item": "Spectral line"}
+{"item": "Spectral radiance"}
+{"item": "Spectral resolution"}
+{"item": "Spin"}
+{"item": "Spin-orbit coupling"}
+{"item": "Spontaneous emission"}
+{"item": "Standing wave"}
+{"item": "State function"}
+{"item": "Statistical mechanics"}
+{"item": "Stefan–Boltzmann constant"}
+{"item": "Stefan–Boltzmann law"}
+{"item": "Stellar evolution"}
+{"item": "Stellar nucleosynthesis"}
+{"item": "Stokes' law"}
+{"item": "Stokes parameter"}
+{"item": "Strain"}
+{"item": "Streamline"}
+{"item": "Stress"}
+{"item": "Stress tensor"}
+{"item": "Strong nuclear force"}
+{"item": "Strouhal number"}
+{"item": "Structural phase transition"}
+{"item": "Subatomic particle"}
+{"item": "Sublimation"}
+{"item": "Superconductor"}
+{"item": "Supercooling"}
+{"item": "Superfluidity"}
+{"item": "Surface charge"}
+{"item": "Surface tension"}
+{"item": "Symmetry breaking"}
+{"item": "Synchrotron radiation"}
+{"item": "System (thermodynamics)"}
+{"item": "Temperature"}
+{"item": "Tension (physics)"}
+{"item": "Terminal velocity"}
+{"item": "Thermal conduction"}
+{"item": "Thermal conductivity"}
+{"item": "Thermal energy"}
+{"item": "Thermal equilibrium"}
+{"item": "Thermal expansion"}
+{"item": "Thermal radiation"}
+{"item": "Thermodynamic equilibrium"}
+{"item": "Thermodynamic potential"}
+{"item": "Thermodynamics"}
+{"item": "Thin lens equation"}
+{"item": "Threshold frequency"}
+{"item": "Time dilation"}
+{"item": "Torque"}
+{"item": "Total internal reflection"}
+{"item": "Translational motion"}
+{"item": "Transverse wave"}
+{"item": "Triple point"}
+{"item": "Turbulent flow"}
+{"item": "Twist (tensor)"}
+{"item": "Ultraviolet catastrophe"}
+{"item": "Uncertainty principle"}
+{"item": "Unified field theory"}
+{"item": "Unit cell (crystal)"}
+{"item": "Universal gravitation"}
+{"item": "Van der Waals force"}
+{"item": "Vector field"}
+{"item": "Vector potential"}
+{"item": "Vector quantity"}
+{"item": "Viscosity"}
+{"item": "Voltage"}
+{"item": "Volt"}
+{"item": "Volumetric flow rate"}
+{"item": "Wave equation"}
+{"item": "Wave number"}
+{"item": "Wavelength"}
+{"item": "Wave-particle duality"}
+{"item": "Weak nuclear force"}
+{"item": "Weber (unit)"}
+{"item": "White dwarf"}
+{"item": "Work"}
+{"item": "Work function"}
+{"item": "Young's modulus"}
+{"item": "Zeeman effect"}
+{"item": "Zener diode"}
+{"item": "Zero-point energy"}
+{"item": "Zeta potential"}
+{"item": "Zitterbewegung"}
+{"item": "Admittance"}
+{"item": "Antiferromagnetism"}
+{"item": "Average velocity"}
+{"item": "Band structure"}
+{"item": "Berry phase"}
+{"item": "Blackbody radiation"}
+{"item": "Bloch wave"}
+{"item": "Boundary layer"}
+{"item": "Brillouin zone"}
+{"item": "Bulk viscosity"}
+{"item": "Canonical ensemble"}
+{"item": "Cathode"}
+{"item": "Centrifugal force"}
+{"item": "Cooper pair"}
+{"item": "Cosmic background radiation"}
+{"item": "Cosmic microwave background"}
+{"item": "Cosmic ray"}
+{"item": "Cosmological constant"}
+{"item": "Coulomb gauge"}
+{"item": "Critical exponents"}
+{"item": "de Sitter space"}
+{"item": "Diffusion current"}
+{"item": "Electric susceptibility"}
+{"item": "Electrochemical cell"}
+{"item": "Electroluminescence"}
+{"item": "Entropy"}
+{"item": "EPR paradox"}
+{"item": "Event (relativity)"}
+{"item": "Exchange interaction"}
+{"item": "Ferroelectricity"}
+{"item": "Ferromagnetism"}
+{"item": "Fictitious magnetic field"}
+{"item": "Flux quantum"}
+{"item": "Foucault currents"}
+{"item": "Frank–Hertz experiment"}
+{"item": "Fresnel zone"}
+{"item": "Gauge boson"}
+{"item": "Geometric phase"}
+{"item": "Gibbs paradox"}
+{"item": "Ginzburg criterion"}
+{"item": "Gravitational lensing"}
+{"item": "Harmonic mean"}
+{"item": "Heterojunction"}
+{"item": "Hubble volume"}
+{"item": "Hund's rules"}
+{"item": "Hybridization (quantum chemistry)"}
+{"item": "Hydrogen line"}
+{"item": "Hysteresis"}
+{"item": "Imaginary mass"}
+{"item": "Josephson junction"}
+{"item": "Kaon"}
+{"item": "Kerr effect"}
+{"item": "Kosmotrope"}
+{"item": "Landé g-factor"}
+{"item": "Lattice constant"}
+{"item": "Lattice parameter"}
+{"item": "Least mean squares"}
+{"item": "Lie algebra"}
+{"item": "Magnon"}
+{"item": "Magnetic anisotropy"}
+{"item": "Magnetic domain"}
+{"item": "Magnetic induction"}
+{"item": "Magnus effect"}
+{"item": "Majorana fermion"}
+{"item": "Matrix element"}
+{"item": "Meissner–Ochsenfeld effect"}
+{"item": "Metastable state"}
+{"item": "Microcanonical ensemble"}
+{"item": "Mobility (physic)"}
+{"item": "Muon neutrino"}
+{"item": "Neutral current"}
+{"item": "Neutron capture"}
+{"item": "Nodes (oscillation)"}
+{"item": "Nonlinear optics"}
+{"item": "Normalization (quantum mechanics)"}
+{"item": "Oblate spheroid"}
+{"item": "Occupation number"}
+{"item": "Optical depth"}
+{"item": "Paramagnetism"}
+{"item": "Parity (physics)"}
+{"item": "Pascal's law"}
+{"item": "Peculiar velocity"}
+{"item": "Permeance"}
+{"item": "Phase shift"}
+{"item": "Phonon"}
+{"item": "Photon polarization"}
+{"item": "Photovoltaic effect"}
+{"item": "Planck charge"}
+{"item": "Poincaré group"}
+{"item": "Polar coordinates"}
+{"item": "Pressure gradient"}
+{"item": "Pseudospin"}
+{"item": "Quantum dot"}
+{"item": "Quantum Hall effect"}
+{"item": "Quantum spin liquid"}
+{"item": "Quantum statistics"}
+{"item": "Quasiparticle"}
+{"item": "Quasistatic process"}
+{"item": "Radiative transfer"}
+{"item": "Random phase approximation"}
+{"item": "Ray"}
+{"item": "Reciprocal lattice"}
+{"item": "Residual resistivity"}
+{"item": "Resistive heating"}
+{"item": "Retarded potential"}
+{"item": "Rotational symmetry"}
+{"item": "Scattering amplitude"}
+{"item": "Scintillation"}
+{"item": "Seebeck effect"}
+{"item": "Sigma particle"}
+{"item": "Soliton"}
+{"item": "Spectrometer"}
+{"item": "Spin polarization"}
+{"item": "Spin statistics theorem"}
+{"item": "Spintronics"}
+{"item": "Stark effect"}
+{"item": "Statistical ensemble"}
+{"item": "Superexchange"}
+{"item": "Superlattice"}
+{"item": "Superparamagnetism"}
+{"item": "Superposition principle"}
+{"item": "Surface plasmon"}
+{"item": "Surface states"}
+{"item": "Symmetry operation"}
+{"item": "Tachyon"}
+{"item": "Thermal noise"}
+{"item": "Thermal wavelength"}
+{"item": "Thomson scattering"}
+{"item": "Topology (physics)"}
+{"item": "Transconductance"}
+{"item": "Tunnel effect"}
+{"item": "Vacuum energy"}
+{"item": "Vector boson"}
+{"item": "Virial theorem"}
+{"item": "Weak equivalence principle"}
+{"item": "Yukawa potential"}
+{"item": "Zero crossing"}

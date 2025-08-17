@@ -1,0 +1,1024 @@
+{"principle_1": "Doppler effect", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Coulomb's law", "principle_2": "Meissner effect", "relation": "A_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Ohm's law", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Law of inertia", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Newton's laws of motion", "principle_2": "Newton's third law", "relation": "A_more_fundamental"}
+{"principle_1": "Meissner effect", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Malus's law", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Conservation of parity", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Heisenberg uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Newton's laws of motion", "relation": "unrelated"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Malus's law", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Ohm's law", "relation": "A_more_fundamental"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Archimedes' principle", "principle_2": "Rayleigh scattering", "relation": "unrelated"}
+{"principle_1": "Newton's third law", "principle_2": "Meissner–Ochsenfeld effect", "relation": "A_more_fundamental"}
+{"principle_1": "Hubble's law", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Gibbs phase rule", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Hund's rules", "relation": "A_more_fundamental"}
+{"principle_1": "Continuity equation", "principle_2": "Faraday's law", "relation": "A_more_fundamental"}
+{"principle_1": "Mossbauer effect", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Bragg's law", "principle_2": "Galilean invariance", "relation": "unrelated"}
+{"principle_1": "Conservation of charge", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Friedmann equations", "principle_2": "Law of universal gravitation", "relation": "B_more_fundamental"}
+{"principle_1": "Galilean relativity", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Superposition principle", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Galilean invariance", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Ginzburg criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Archimedes' principle", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Hall effect", "principle_2": "Mass-energy equivalence", "relation": "unrelated"}
+{"principle_1": "Magnus effect", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Newton's third law", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Equipartition theorem", "principle_2": "Stokes' law", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of momentum", "principle_2": "Virial theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean invariance", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Photoelectric effect", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Coulomb force", "principle_2": "First law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's law of thermal radiation", "principle_2": "Schrödinger equation", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of energy", "principle_2": "Heisenberg uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Law of universal gravitation", "principle_2": "Poiseuille's law", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Kirchhoff's circuit laws", "relation": "A_more_fundamental"}
+{"principle_1": "Gauss's law", "principle_2": "Hydrostatic equilibrium", "relation": "unrelated"}
+{"principle_1": "Mass-energy equivalence", "principle_2": "Photovoltaic effect", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of energy", "principle_2": "Galilean relativity", "relation": "unrelated"}
+{"principle_1": "Newton's third law", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Ginzburg criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Ideal gas law", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Conservation of momentum", "relation": "B_more_fundamental"}
+{"principle_1": "Doppler effect", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Equipartition theorem", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Ohm's law", "principle_2": "Photovoltaic effect", "relation": "B_more_fundamental"}
+{"principle_1": "Newton's law of cooling", "principle_2": "Stefan–Boltzmann law", "relation": "B_more_fundamental"}
+{"principle_1": "Universal gravitation", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Friedmann equations", "relation": "unrelated"}
+{"principle_1": "Schrödinger equation", "principle_2": "Snell's law", "relation": "A_more_fundamental"}
+{"principle_1": "Lenz's law", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Faraday's law", "principle_2": "Ideal gas law", "relation": "unrelated"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Klein–Gordon equation", "relation": "unrelated"}
+{"principle_1": "Ampère's law", "principle_2": "Principle of superposition", "relation": "B_more_fundamental"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Stokes' law", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean invariance", "principle_2": "Newton's law of cooling", "relation": "A_more_fundamental"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Microscopic reversibility", "relation": "unrelated"}
+{"principle_1": "Ohm's law", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Principle of superposition", "principle_2": "Magnus effect", "relation": "A_more_fundamental"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Maxwell's equations", "principle_2": "Meissner effect", "relation": "A_more_fundamental"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Newton's law of universal gravitation", "principle_2": "Virial theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Equipartition theorem", "principle_2": "Law of refraction", "relation": "unrelated"}
+{"principle_1": "Second law of thermodynamics", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Universal gravitation", "relation": "B_more_fundamental"}
+{"principle_1": "Equipartition theorem", "principle_2": "Newton's third law", "relation": "unrelated"}
+{"principle_1": "Faraday's law", "principle_2": "Gibbs phase rule", "relation": "unrelated"}
+{"principle_1": "Galilean relativity", "principle_2": "Law of refraction", "relation": "A_more_fundamental"}
+{"principle_1": "Coulomb's law", "principle_2": "Uncertainty principle", "relation": "B_more_fundamental"}
+{"principle_1": "Kirchhoff's law of thermal radiation", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Right-hand rule", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Law of reflection", "principle_2": "Ohm's law", "relation": "unrelated"}
+{"principle_1": "Exclusion principle", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Poiseuille's law", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Schrödinger equation", "relation": "A_more_fundamental"}
+{"principle_1": "Law of inertia", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Stokes' law", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Rayleigh scattering", "relation": "unrelated"}
+{"principle_1": "Gibbs phase rule", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Wave-particle duality", "relation": "B_more_fundamental"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Stokes' law", "relation": "A_more_fundamental"}
+{"principle_1": "Malus's law", "principle_2": "Newton's second law", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Equipartition theorem", "relation": "unrelated"}
+{"principle_1": "Second law of thermodynamics", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Photoelectric effect", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Mossbauer effect", "relation": "A_more_fundamental"}
+{"principle_1": "Bragg's law", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Newton's third law", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Hydrostatic equilibrium", "relation": "A_more_fundamental"}
+{"principle_1": "Pascal's law", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Law of universal gravitation", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Pauli exclusion principle", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Magnus effect", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Magnus effect", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Hund's rules", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Piezoelectricity", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Mass-energy equivalence", "relation": "unrelated"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Newton's third law", "principle_2": "Snell's law", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of energy", "principle_2": "Maxwell's equations", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean relativity", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Virial theorem", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Hubble's law", "relation": "A_more_fundamental"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Coulomb force", "principle_2": "Exclusion principle", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Friedmann equations", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Newton's law of universal gravitation", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Malus's law", "principle_2": "Microscopic reversibility", "relation": "unrelated"}
+{"principle_1": "Lenz's law", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Newton's first law", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Conservation of parity", "relation": "unrelated"}
+{"principle_1": "Gauss's law", "principle_2": "Rayleigh scattering", "relation": "A_more_fundamental"}
+{"principle_1": "Friedmann equations", "principle_2": "Law of conservation of mass", "relation": "B_more_fundamental"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Photovoltaic effect", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean invariance", "principle_2": "Seebeck effect", "relation": "A_more_fundamental"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Ginzburg criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Maxwell's equations", "principle_2": "Rayleigh scattering", "relation": "A_more_fundamental"}
+{"principle_1": "Ideal gas law", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Archimedes' principle", "principle_2": "Friedmann equations", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Continuity equation", "relation": "unrelated"}
+{"principle_1": "Josephson effect", "principle_2": "Tunnel effect", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of charge", "principle_2": "Coulomb's law", "relation": "A_more_fundamental"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Wave-particle duality", "relation": "B_more_fundamental"}
+{"principle_1": "Microscopic reversibility", "principle_2": "Meissner–Ochsenfeld effect", "relation": "A_more_fundamental"}
+{"principle_1": "Energy conservation", "principle_2": "Meissner–Ochsenfeld effect", "relation": "A_more_fundamental"}
+{"principle_1": "Bragg's law", "principle_2": "Electromagnetic induction", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Exclusion principle", "relation": "B_more_fundamental"}
+{"principle_1": "Hubble's law", "principle_2": "Principle of superposition", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Electron degeneracy pressure", "relation": "unrelated"}
+{"principle_1": "Hall effect", "principle_2": "Kirchhoff's law of thermal radiation", "relation": "unrelated"}
+{"principle_1": "Coulomb's law", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Ideal gas law", "principle_2": "Mass-energy equivalence", "relation": "B_more_fundamental"}
+{"principle_1": "Bragg's law", "principle_2": "Meissner effect", "relation": "unrelated"}
+{"principle_1": "Coulomb's law", "principle_2": "Kirchhoff's circuit laws", "relation": "A_more_fundamental"}
+{"principle_1": "Fresnel equations", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Newton's first law", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Maxwell's equations", "relation": "B_more_fundamental"}
+{"principle_1": "Bragg's law", "principle_2": "Coulomb's law", "relation": "unrelated"}
+{"principle_1": "Newton's law of universal gravitation", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of mass", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Relativity", "principle_2": "Superposition principle", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Newton's second law", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of charge", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Hall effect", "relation": "A_more_fundamental"}
+{"principle_1": "Archimedes' principle", "principle_2": "Weak equivalence principle", "relation": "B_more_fundamental"}
+{"principle_1": "Rayleigh scattering", "principle_2": "Ginzburg criterion", "relation": "unrelated"}
+{"principle_1": "Kepler's laws", "principle_2": "Principle of superposition", "relation": "unrelated"}
+{"principle_1": "Ampère's law", "principle_2": "Heisenberg uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's law of thermal radiation", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Equipartition theorem", "principle_2": "Virial theorem", "relation": "B_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Conservation of mass", "relation": "unrelated"}
+{"principle_1": "Poiseuille's law", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Doppler effect", "principle_2": "Hall effect", "relation": "unrelated"}
+{"principle_1": "Gauss's law", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Conservation of momentum", "principle_2": "Kepler's laws", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of charge", "principle_2": "Poiseuille's law", "relation": "unrelated"}
+{"principle_1": "Microscopic reversibility", "principle_2": "Stefan–Boltzmann law", "relation": "A_more_fundamental"}
+{"principle_1": "Law of reflection", "principle_2": "Rayleigh criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Schrödinger equation", "principle_2": "Tunnel effect", "relation": "A_more_fundamental"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Rayleigh scattering", "relation": "A_more_fundamental"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Malus's law", "relation": "unrelated"}
+{"principle_1": "Ampère's law", "principle_2": "Coulomb's law", "relation": "unrelated"}
+{"principle_1": "Coulomb's law", "principle_2": "Lenz's law", "relation": "unrelated"}
+{"principle_1": "Relativity", "principle_2": "Wave-particle duality", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean relativity", "principle_2": "Relativity", "relation": "B_more_fundamental"}
+{"principle_1": "Energy conservation", "principle_2": "Wave-particle duality", "relation": "A_more_fundamental"}
+{"principle_1": "Coulomb's law", "principle_2": "Rayleigh scattering", "relation": "A_more_fundamental"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Stefan–Boltzmann law", "relation": "A_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Faraday's law", "relation": "unrelated"}
+{"principle_1": "Galilean invariance", "principle_2": "Law of refraction", "relation": "A_more_fundamental"}
+{"principle_1": "Ideal gas law", "principle_2": "Wave-particle duality", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of momentum", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Gibbs phase rule", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Conservation of charge", "principle_2": "Seebeck effect", "relation": "A_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Maxwell's equations", "relation": "unrelated"}
+{"principle_1": "Exclusion principle", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Principle of superposition", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of energy", "principle_2": "Mass-energy equivalence", "relation": "A_more_fundamental"}
+{"principle_1": "Gibbs phase rule", "principle_2": "Kirchhoff's law of thermal radiation", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Microscopic reversibility", "relation": "B_more_fundamental"}
+{"principle_1": "Friedmann equations", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Malus's law", "relation": "A_more_fundamental"}
+{"principle_1": "Newton's laws of motion", "principle_2": "Schrödinger equation", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of momentum", "principle_2": "Friedmann equations", "relation": "unrelated"}
+{"principle_1": "Conservation of momentum", "principle_2": "Ohm's law", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Newton's law of cooling", "relation": "A_more_fundamental"}
+{"principle_1": "Equipartition theorem", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Schrödinger equation", "relation": "B_more_fundamental"}
+{"principle_1": "Lenz's law", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Pauli exclusion principle", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Right-hand rule", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Kepler's laws", "relation": "unrelated"}
+{"principle_1": "Bragg's law", "principle_2": "Maxwell's equations", "relation": "B_more_fundamental"}
+{"principle_1": "Second law of thermodynamics", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Conservation of charge", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Faraday's law", "relation": "unrelated"}
+{"principle_1": "Stokes' law", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Equipartition theorem", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Poiseuille's law", "relation": "unrelated"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Ginzburg criterion", "relation": "unrelated"}
+{"principle_1": "Gauss's law", "principle_2": "Ideal gas law", "relation": "unrelated"}
+{"principle_1": "Gibbs phase rule", "principle_2": "Heisenberg uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Heisenberg uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Malus's law", "relation": "unrelated"}
+{"principle_1": "Exclusion principle", "principle_2": "Relativity", "relation": "unrelated"}
+{"principle_1": "Galilean invariance", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Newton's law of cooling", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Photoelectric effect", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Gibbs phase rule", "principle_2": "Maxwell's equations", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Mass-energy equivalence", "relation": "unrelated"}
+{"principle_1": "Hall effect", "principle_2": "Meissner effect", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Heisenberg uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Newton's laws of motion", "principle_2": "Ginzburg criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Newton's third law", "relation": "B_more_fundamental"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Principle of superposition", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Energy conservation", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Mossbauer effect", "relation": "A_more_fundamental"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Meissner effect", "relation": "unrelated"}
+{"principle_1": "Uncertainty principle", "principle_2": "Spin statistics theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Law of inertia", "principle_2": "Stokes' law", "relation": "A_more_fundamental"}
+{"principle_1": "Mass-energy equivalence", "principle_2": "Virial theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Meissner effect", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Schrödinger equation", "relation": "B_more_fundamental"}
+{"principle_1": "Equipartition theorem", "principle_2": "Law of conservation of mass", "relation": "unrelated"}
+{"principle_1": "Ideal gas law", "principle_2": "Snell's law", "relation": "unrelated"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Coulomb force", "principle_2": "Faraday's law", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Josephson effect", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of charge", "principle_2": "Tunnel effect", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean invariance", "principle_2": "Snell's law", "relation": "A_more_fundamental"}
+{"principle_1": "Fresnel equations", "principle_2": "Gauss's law", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of mass", "principle_2": "Kepler's laws", "relation": "unrelated"}
+{"principle_1": "Faraday's law", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Microscopic reversibility", "principle_2": "Mossbauer effect", "relation": "A_more_fundamental"}
+{"principle_1": "Friedmann equations", "principle_2": "Relativity", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of momentum", "principle_2": "Hydrostatic equilibrium", "relation": "A_more_fundamental"}
+{"principle_1": "Gauss's law", "principle_2": "Newton's laws of motion", "relation": "unrelated"}
+{"principle_1": "Law of refraction", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Equipartition theorem", "principle_2": "Hubble's law", "relation": "unrelated"}
+{"principle_1": "Galilean invariance", "principle_2": "Ginzburg criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Hall effect", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Right-hand rule", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Hubble's law", "relation": "A_more_fundamental"}
+{"principle_1": "Kirchhoff's law of thermal radiation", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Galilean relativity", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Coulomb force", "relation": "A_more_fundamental"}
+{"principle_1": "Lenz's law", "principle_2": "Newton's third law", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Ohm's law", "relation": "unrelated"}
+{"principle_1": "Snell's law", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Exclusion principle", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Microscopic reversibility", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean invariance", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Law of refraction", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Microscopic reversibility", "relation": "B_more_fundamental"}
+{"principle_1": "Ideal gas law", "principle_2": "Microscopic reversibility", "relation": "B_more_fundamental"}
+{"principle_1": "Law of universal gravitation", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Pascal's law", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Newton's laws of motion", "relation": "B_more_fundamental"}
+{"principle_1": "Galilean invariance", "principle_2": "Mossbauer effect", "relation": "A_more_fundamental"}
+{"principle_1": "Archimedes' principle", "principle_2": "Lenz's law", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Kirchhoff's circuit laws", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Law of conservation of mass", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Newton's first law", "relation": "B_more_fundamental"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Magnus effect", "relation": "A_more_fundamental"}
+{"principle_1": "Ideal gas law", "principle_2": "Second law of thermodynamics", "relation": "B_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Schrödinger equation", "relation": "unrelated"}
+{"principle_1": "Law of inertia", "principle_2": "Photovoltaic effect", "relation": "A_more_fundamental"}
+{"principle_1": "Josephson effect", "principle_2": "Meissner effect", "relation": "B_more_fundamental"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Mass-energy equivalence", "relation": "unrelated"}
+{"principle_1": "Galilean invariance", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Law of universal gravitation", "principle_2": "Newton's first law", "relation": "B_more_fundamental"}
+{"principle_1": "Principle of equivalence", "principle_2": "Rayleigh scattering", "relation": "A_more_fundamental"}
+{"principle_1": "Doppler effect", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Galilean relativity", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Fresnel equations", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Malus's law", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Ideal gas law", "relation": "unrelated"}
+{"principle_1": "Friedmann equations", "principle_2": "Principle of superposition", "relation": "unrelated"}
+{"principle_1": "Right-hand rule", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Law of refraction", "principle_2": "Newton's law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Newton's third law", "principle_2": "Tunnel effect", "relation": "A_more_fundamental"}
+{"principle_1": "Josephson effect", "principle_2": "Poiseuille's law", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Gauss's law", "relation": "unrelated"}
+{"principle_1": "Coulomb force", "principle_2": "Coulomb's law", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Meissner effect", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Principle of least action", "relation": "unrelated"}
+{"principle_1": "Hund's rules", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Ideal gas law", "principle_2": "Law of conservation of mass", "relation": "B_more_fundamental"}
+{"principle_1": "Galilean invariance", "principle_2": "Kepler's laws", "relation": "A_more_fundamental"}
+{"principle_1": "Principle of least action", "principle_2": "Wave-particle duality", "relation": "A_more_fundamental"}
+{"principle_1": "Second law of thermodynamics", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Principle of equivalence", "relation": "B_more_fundamental"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Spin statistics theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Fresnel equations", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Poiseuille's law", "principle_2": "Rayleigh scattering", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Virial theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Energy conservation", "principle_2": "First law of thermodynamics", "relation": "A_more_fundamental"}
+{"principle_1": "Kirchhoff's law of thermal radiation", "principle_2": "Piezoelectricity", "relation": "unrelated"}
+{"principle_1": "Photoelectric effect", "principle_2": "Piezoelectricity", "relation": "unrelated"}
+{"principle_1": "Lenz's law", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Friedmann equations", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Law of inertia", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Equipartition theorem", "principle_2": "Malus's law", "relation": "unrelated"}
+{"principle_1": "Hall effect", "principle_2": "Kepler's laws", "relation": "unrelated"}
+{"principle_1": "Exclusion principle", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Uncertainty principle", "principle_2": "Tunnel effect", "relation": "A_more_fundamental"}
+{"principle_1": "Malus's law", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Hubble's law", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Hall effect", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Mass-energy equivalence", "relation": "unrelated"}
+{"principle_1": "Law of refraction", "principle_2": "Schrödinger equation", "relation": "B_more_fundamental"}
+{"principle_1": "Doppler effect", "principle_2": "Newton's laws of motion", "relation": "unrelated"}
+{"principle_1": "Faraday's law", "principle_2": "Ginzburg criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Ohm's law", "principle_2": "Poiseuille's law", "relation": "A_more_fundamental"}
+{"principle_1": "Coulomb force", "principle_2": "Fresnel equations", "relation": "A_more_fundamental"}
+{"principle_1": "Exclusion principle", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Coulomb force", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Conservation of momentum", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "Kepler's laws", "principle_2": "Weak equivalence principle", "relation": "B_more_fundamental"}
+{"principle_1": "Gauss's law", "principle_2": "Law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Maxwell's equations", "principle_2": "Newton's first law", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Poiseuille's law", "relation": "unrelated"}
+{"principle_1": "Photoelectric effect", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Meissner effect", "principle_2": "Newton's third law", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Conservation of mass", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of charge", "principle_2": "Photoelectric effect", "relation": "A_more_fundamental"}
+{"principle_1": "Kirchhoff's law of thermal radiation", "principle_2": "Law of conservation of mass", "relation": "unrelated"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Galilean relativity", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Principle of superposition", "relation": "B_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Conservation of energy", "relation": "B_more_fundamental"}
+{"principle_1": "Rayleigh criterion", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Newton's third law", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Poiseuille's law", "relation": "A_more_fundamental"}
+{"principle_1": "Fresnel equations", "principle_2": "Rayleigh criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Rayleigh scattering", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Mass-energy equivalence", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Piezoelectricity", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Mass-energy equivalence", "principle_2": "Newton's first law", "relation": "A_more_fundamental"}
+{"principle_1": "Archimedes' principle", "principle_2": "Principle of superposition", "relation": "unrelated"}
+{"principle_1": "Meissner effect", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Mossbauer effect", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Meissner effect", "relation": "unrelated"}
+{"principle_1": "Newton's law of cooling", "principle_2": "Schrödinger equation", "relation": "unrelated"}
+{"principle_1": "Mass-energy equivalence", "principle_2": "Seebeck effect", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Law of refraction", "relation": "unrelated"}
+{"principle_1": "Pauli exclusion principle", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Lenz's law", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Piezoelectricity", "relation": "A_more_fundamental"}
+{"principle_1": "Mass-energy equivalence", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Meissner effect", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Poiseuille's law", "relation": "unrelated"}
+{"principle_1": "Mossbauer effect", "principle_2": "Piezoelectricity", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Ohm's law", "relation": "A_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Electromagnetic induction", "relation": "unrelated"}
+{"principle_1": "Law of refraction", "principle_2": "Ohm's law", "relation": "unrelated"}
+{"principle_1": "Stokes' law", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Poiseuille's law", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Poiseuille's law", "principle_2": "Principle of superposition", "relation": "B_more_fundamental"}
+{"principle_1": "Kirchhoff's law of thermal radiation", "principle_2": "Klein–Gordon equation", "relation": "unrelated"}
+{"principle_1": "Meissner effect", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Newton's laws of motion", "relation": "A_more_fundamental"}
+{"principle_1": "Exclusion principle", "principle_2": "Ohm's law", "relation": "A_more_fundamental"}
+{"principle_1": "Gauss's law", "principle_2": "Hall effect", "relation": "A_more_fundamental"}
+{"principle_1": "Fresnel equations", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Faraday's law", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Principle of superposition", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Snell's law", "relation": "unrelated"}
+{"principle_1": "Newton's laws of motion", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Piezoelectricity", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Maxwell's equations", "principle_2": "Newton's law of cooling", "relation": "A_more_fundamental"}
+{"principle_1": "Ideal gas law", "principle_2": "Mossbauer effect", "relation": "unrelated"}
+{"principle_1": "Faraday's law", "principle_2": "Principle of superposition", "relation": "B_more_fundamental"}
+{"principle_1": "Galilean relativity", "principle_2": "Hall effect", "relation": "A_more_fundamental"}
+{"principle_1": "Doppler effect", "principle_2": "Relativity", "relation": "B_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Josephson effect", "principle_2": "Kepler's laws", "relation": "unrelated"}
+{"principle_1": "Poiseuille's law", "principle_2": "Second law of thermodynamics", "relation": "B_more_fundamental"}
+{"principle_1": "Law of refraction", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "Law of refraction", "principle_2": "Wave-particle duality", "relation": "B_more_fundamental"}
+{"principle_1": "Newton's third law", "principle_2": "Rayleigh scattering", "relation": "A_more_fundamental"}
+{"principle_1": "Microscopic reversibility", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Superposition principle", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Law of refraction", "relation": "B_more_fundamental"}
+{"principle_1": "Faraday's law", "principle_2": "Seebeck effect", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of parity", "principle_2": "Law of refraction", "relation": "unrelated"}
+{"principle_1": "Maxwell's equations", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Equipartition theorem", "principle_2": "Meissner effect", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Photoelectric effect", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean relativity", "principle_2": "Principle of superposition", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Kepler's laws", "relation": "unrelated"}
+{"principle_1": "Law of reflection", "principle_2": "Schrödinger equation", "relation": "B_more_fundamental"}
+{"principle_1": "Josephson effect", "principle_2": "Principle of superposition", "relation": "B_more_fundamental"}
+{"principle_1": "Archimedes' principle", "principle_2": "Conservation of charge", "relation": "unrelated"}
+{"principle_1": "Hubble's law", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Hubble's law", "relation": "unrelated"}
+{"principle_1": "Newton's second law", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Hall effect", "relation": "unrelated"}
+{"principle_1": "Friedmann equations", "principle_2": "Newton's first law", "relation": "B_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Gibbs phase rule", "principle_2": "Josephson effect", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Exclusion principle", "principle_2": "Gauss's law", "relation": "unrelated"}
+{"principle_1": "Law of universal gravitation", "principle_2": "Rayleigh scattering", "relation": "A_more_fundamental"}
+{"principle_1": "Exclusion principle", "principle_2": "Law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Law of universal gravitation", "principle_2": "Piezoelectricity", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of parity", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Lenz's law", "principle_2": "Principle of superposition", "relation": "B_more_fundamental"}
+{"principle_1": "Hubble's law", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Maxwell's equations", "principle_2": "Newton's second law", "relation": "unrelated"}
+{"principle_1": "Rayleigh criterion", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Galilean relativity", "principle_2": "Malus's law", "relation": "unrelated"}
+{"principle_1": "Mass-energy equivalence", "principle_2": "Superposition principle", "relation": "unrelated"}
+{"principle_1": "Hall effect", "principle_2": "Spin statistics theorem", "relation": "B_more_fundamental"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Klein–Gordon equation", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Piezoelectricity", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Principle of superposition", "relation": "B_more_fundamental"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Rayleigh scattering", "relation": "A_more_fundamental"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Microscopic reversibility", "relation": "unrelated"}
+{"principle_1": "Meissner effect", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Lenz's law", "principle_2": "Second law of thermodynamics", "relation": "B_more_fundamental"}
+{"principle_1": "Doppler effect", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Mass-energy equivalence", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Kepler's laws", "principle_2": "Kirchhoff's circuit laws", "relation": "unrelated"}
+{"principle_1": "Schrödinger equation", "principle_2": "Ginzburg criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Ohm's law", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of momentum", "principle_2": "Law of inertia", "relation": "B_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Conservation of charge", "principle_2": "Kirchhoff's law of thermal radiation", "relation": "unrelated"}
+{"principle_1": "Newton's first law", "principle_2": "Superposition principle", "relation": "unrelated"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Mass-energy equivalence", "relation": "B_more_fundamental"}
+{"principle_1": "Photoelectric effect", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Law of inertia", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Ampère's law", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Superposition principle", "relation": "unrelated"}
+{"principle_1": "Conservation of momentum", "principle_2": "Energy conservation", "relation": "unrelated"}
+{"principle_1": "Hall effect", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Newton's first law", "principle_2": "Schrödinger equation", "relation": "B_more_fundamental"}
+{"principle_1": "Exclusion principle", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Ampère's law", "principle_2": "Klein–Gordon equation", "relation": "unrelated"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Lenz's law", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Kirchhoff's law of thermal radiation", "relation": "A_more_fundamental"}
+{"principle_1": "Continuity equation", "principle_2": "Newton's law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Gibbs phase rule", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Snell's law", "relation": "B_more_fundamental"}
+{"principle_1": "Faraday's law", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Galilean invariance", "relation": "unrelated"}
+{"principle_1": "Stokes' law", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Bragg's law", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Coulomb force", "principle_2": "Electron degeneracy pressure", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of charge", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Coulomb's law", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Newton's third law", "relation": "B_more_fundamental"}
+{"principle_1": "Coulomb's law", "principle_2": "Photoelectric effect", "relation": "A_more_fundamental"}
+{"principle_1": "Josephson effect", "principle_2": "Uncertainty principle", "relation": "B_more_fundamental"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Newton's second law", "relation": "B_more_fundamental"}
+{"principle_1": "Law of refraction", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Law of reflection", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Law of conservation of mass", "relation": "unrelated"}
+{"principle_1": "Law of universal gravitation", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Mossbauer effect", "principle_2": "Ginzburg criterion", "relation": "unrelated"}
+{"principle_1": "Maxwell's equations", "principle_2": "Principle of superposition", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Stefan–Boltzmann law", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Stefan–Boltzmann law", "principle_2": "Ginzburg criterion", "relation": "unrelated"}
+{"principle_1": "Ampère's law", "principle_2": "Newton's third law", "relation": "B_more_fundamental"}
+{"principle_1": "Equipartition theorem", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Maxwell's equations", "principle_2": "Mossbauer effect", "relation": "A_more_fundamental"}
+{"principle_1": "Coulomb force", "principle_2": "Maxwell's equations", "relation": "B_more_fundamental"}
+{"principle_1": "Relativity", "principle_2": "Universal gravitation", "relation": "A_more_fundamental"}
+{"principle_1": "Bragg's law", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Galilean relativity", "principle_2": "Mossbauer effect", "relation": "A_more_fundamental"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Hall effect", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Rayleigh scattering", "principle_2": "Schrödinger equation", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of energy", "principle_2": "Meissner–Ochsenfeld effect", "relation": "A_more_fundamental"}
+{"principle_1": "Faraday's law", "principle_2": "Fresnel equations", "relation": "A_more_fundamental"}
+{"principle_1": "Malus's law", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Relativity", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Galilean relativity", "relation": "B_more_fundamental"}
+{"principle_1": "Ideal gas law", "principle_2": "Poiseuille's law", "relation": "A_more_fundamental"}
+{"principle_1": "Mass-energy equivalence", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Newton's first law", "principle_2": "Newton's law of universal gravitation", "relation": "A_more_fundamental"}
+{"principle_1": "Stokes' law", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of charge", "principle_2": "Conservation of linear momentum", "relation": "unrelated"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Ginzburg criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of parity", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Hydrostatic equilibrium", "relation": "A_more_fundamental"}
+{"principle_1": "Rayleigh scattering", "principle_2": "Second law of thermodynamics", "relation": "B_more_fundamental"}
+{"principle_1": "Poiseuille's law", "principle_2": "Pascal's law", "relation": "B_more_fundamental"}
+{"principle_1": "Meissner effect", "principle_2": "Tunnel effect", "relation": "B_more_fundamental"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Mossbauer effect", "principle_2": "Ohm's law", "relation": "unrelated"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Newton's laws of motion", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Coulomb force", "principle_2": "Ideal gas law", "relation": "A_more_fundamental"}
+{"principle_1": "Malus's law", "principle_2": "Spin statistics theorem", "relation": "B_more_fundamental"}
+{"principle_1": "Ginzburg criterion", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Archimedes' principle", "principle_2": "Kepler's laws", "relation": "unrelated"}
+{"principle_1": "Bragg's law", "principle_2": "Snell's law", "relation": "B_more_fundamental"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Newton's first law", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Law of refraction", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Tunnel effect", "relation": "A_more_fundamental"}
+{"principle_1": "Ginzburg criterion", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of momentum", "principle_2": "Heisenberg uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Exclusion principle", "principle_2": "Galilean relativity", "relation": "unrelated"}
+{"principle_1": "Equipartition theorem", "principle_2": "Seebeck effect", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean relativity", "principle_2": "Poiseuille's law", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of parity", "principle_2": "Newton's third law", "relation": "unrelated"}
+{"principle_1": "Poiseuille's law", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Meissner effect", "relation": "unrelated"}
+{"principle_1": "Ginzburg criterion", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Newton's laws of motion", "relation": "B_more_fundamental"}
+{"principle_1": "Gauss's law", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Ohm's law", "principle_2": "Piezoelectricity", "relation": "unrelated"}
+{"principle_1": "Wave-particle duality", "principle_2": "Seebeck effect", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of charge", "principle_2": "Galilean relativity", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Gibbs phase rule", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Microscopic reversibility", "relation": "B_more_fundamental"}
+{"principle_1": "Pauli exclusion principle", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Josephson effect", "principle_2": "Mossbauer effect", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Stokes' law", "relation": "A_more_fundamental"}
+{"principle_1": "Faraday's law", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Maxwell's equations", "relation": "unrelated"}
+{"principle_1": "Newton's laws of motion", "principle_2": "Meissner–Ochsenfeld effect", "relation": "A_more_fundamental"}
+{"principle_1": "Principle of least action", "principle_2": "Photovoltaic effect", "relation": "A_more_fundamental"}
+{"principle_1": "Law of reflection", "principle_2": "Newton's first law", "relation": "B_more_fundamental"}
+{"principle_1": "Mass-energy equivalence", "principle_2": "Meissner effect", "relation": "A_more_fundamental"}
+{"principle_1": "Doppler effect", "principle_2": "Exclusion principle", "relation": "unrelated"}
+{"principle_1": "Bragg's law", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Principle of superposition", "principle_2": "Virial theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Newton's law of cooling", "relation": "A_more_fundamental"}
+{"principle_1": "Friedmann equations", "principle_2": "Microscopic reversibility", "relation": "unrelated"}
+{"principle_1": "Coulomb force", "principle_2": "Right-hand rule", "relation": "A_more_fundamental"}
+{"principle_1": "Archimedes' principle", "principle_2": "Hall effect", "relation": "unrelated"}
+{"principle_1": "Coulomb's law", "principle_2": "Gibbs phase rule", "relation": "unrelated"}
+{"principle_1": "Hubble's law", "principle_2": "Hydrostatic equilibrium", "relation": "unrelated"}
+{"principle_1": "Friedmann equations", "principle_2": "Piezoelectricity", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Law of inertia", "relation": "unrelated"}
+{"principle_1": "Principle of least action", "principle_2": "Tunnel effect", "relation": "A_more_fundamental"}
+{"principle_1": "Fresnel equations", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Spin statistics theorem", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Josephson effect", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Law of inertia", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Newton's first law", "relation": "unrelated"}
+{"principle_1": "Newton's law of universal gravitation", "principle_2": "Principle of equivalence", "relation": "B_more_fundamental"}
+{"principle_1": "Fresnel equations", "principle_2": "Lenz's law", "relation": "unrelated"}
+{"principle_1": "Galilean invariance", "principle_2": "Total internal reflection", "relation": "A_more_fundamental"}
+{"principle_1": "Poiseuille's law", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Conservation of momentum", "principle_2": "Doppler effect", "relation": "A_more_fundamental"}
+{"principle_1": "Friedmann equations", "principle_2": "Galilean invariance", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Equipartition theorem", "relation": "unrelated"}
+{"principle_1": "Hall effect", "principle_2": "Newton's third law", "relation": "B_more_fundamental"}
+{"principle_1": "Pauli exclusion principle", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Magnus effect", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Stokes' law", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Newton's law of universal gravitation", "relation": "A_more_fundamental"}
+{"principle_1": "Gauss's law", "principle_2": "Poiseuille's law", "relation": "unrelated"}
+{"principle_1": "Law of universal gravitation", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Galilean relativity", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Mass-energy equivalence", "relation": "A_more_fundamental"}
+{"principle_1": "Continuity equation", "principle_2": "First law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Photoelectric effect", "principle_2": "Uncertainty principle", "relation": "B_more_fundamental"}
+{"principle_1": "Meissner effect", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Gauss's law", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Galilean invariance", "principle_2": "Newton's law of universal gravitation", "relation": "A_more_fundamental"}
+{"principle_1": "Doppler effect", "principle_2": "Galilean invariance", "relation": "B_more_fundamental"}
+{"principle_1": "Fresnel equations", "principle_2": "Newton's law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Gauss's law", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Photovoltaic effect", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Gibbs phase rule", "principle_2": "Law of inertia", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Exclusion principle", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Snell's law", "relation": "unrelated"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Photoelectric effect", "relation": "A_more_fundamental"}
+{"principle_1": "Principle of superposition", "principle_2": "Rayleigh scattering", "relation": "A_more_fundamental"}
+{"principle_1": "Exclusion principle", "principle_2": "Hubble's law", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Lenz's law", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Law of conservation of mass", "relation": "unrelated"}
+{"principle_1": "Right-hand rule", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Coulomb force", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Meissner effect", "relation": "A_more_fundamental"}
+{"principle_1": "Relativity", "principle_2": "Schrödinger equation", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of momentum", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Meissner–Ochsenfeld effect", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Hall effect", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Ampère's law", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Josephson effect", "principle_2": "Schrödinger equation", "relation": "B_more_fundamental"}
+{"principle_1": "Coulomb's law", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Friedmann equations", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Stefan–Boltzmann law", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Photovoltaic effect", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Hall effect", "principle_2": "Snell's law", "relation": "unrelated"}
+{"principle_1": "Rayleigh scattering", "principle_2": "Relativity", "relation": "B_more_fundamental"}
+{"principle_1": "Newton's first law", "principle_2": "Newton's third law", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Law of inertia", "relation": "B_more_fundamental"}
+{"principle_1": "Doppler effect", "principle_2": "Ohm's law", "relation": "unrelated"}
+{"principle_1": "Piezoelectricity", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Microscopic reversibility", "principle_2": "Photovoltaic effect", "relation": "A_more_fundamental"}
+{"principle_1": "Bragg's law", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Total internal reflection", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Maxwell's equations", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Second law of thermodynamics", "relation": "B_more_fundamental"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Josephson effect", "relation": "unrelated"}
+{"principle_1": "Law of refraction", "principle_2": "Snell's law", "relation": "A_more_fundamental"}
+{"principle_1": "Exclusion principle", "principle_2": "First law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Piezoelectricity", "relation": "A_more_fundamental"}
+{"principle_1": "Meissner effect", "principle_2": "Schrödinger equation", "relation": "B_more_fundamental"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of charge", "principle_2": "Hydrostatic equilibrium", "relation": "unrelated"}
+{"principle_1": "Hubble's law", "principle_2": "Klein–Gordon equation", "relation": "unrelated"}
+{"principle_1": "Mossbauer effect", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Law of refraction", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Lenz's law", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Hydrostatic equilibrium", "relation": "A_more_fundamental"}
+{"principle_1": "Ohm's law", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Doppler effect", "relation": "A_more_fundamental"}
+{"principle_1": "Maxwell's equations", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Photoelectric effect", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Bragg's law", "principle_2": "Hubble's law", "relation": "unrelated"}
+{"principle_1": "Law of reflection", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Mossbauer effect", "principle_2": "Newton's second law", "relation": "B_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Galilean relativity", "relation": "unrelated"}
+{"principle_1": "Relativity", "principle_2": "Pascal's law", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of charge", "principle_2": "Stokes' law", "relation": "A_more_fundamental"}
+{"principle_1": "Kepler's laws", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Ideal gas law", "principle_2": "Lenz's law", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Wave-particle duality", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Ginzburg criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Newton's law of universal gravitation", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Bragg's law", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Mossbauer effect", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of parity", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Newton's law of cooling", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Galilean relativity", "principle_2": "Schrödinger equation", "relation": "A_more_fundamental"}
+{"principle_1": "Principle of equivalence", "principle_2": "Universal gravitation", "relation": "A_more_fundamental"}
+{"principle_1": "Newton's first law", "principle_2": "Pascal's law", "relation": "A_more_fundamental"}
+{"principle_1": "Snell's law", "principle_2": "Wave-particle duality", "relation": "B_more_fundamental"}
+{"principle_1": "Relativity", "principle_2": "Meissner–Ochsenfeld effect", "relation": "A_more_fundamental"}
+{"principle_1": "Newton's second law", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Pascal's law", "relation": "A_more_fundamental"}
+{"principle_1": "Hall effect", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Conservation of charge", "principle_2": "Law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Lenz's law", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Josephson effect", "principle_2": "Meissner–Ochsenfeld effect", "relation": "B_more_fundamental"}
+{"principle_1": "Kirchhoff's law of thermal radiation", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Newton's law of cooling", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Mossbauer effect", "relation": "A_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Hall effect", "relation": "A_more_fundamental"}
+{"principle_1": "Bragg's law", "principle_2": "Wave-particle duality", "relation": "B_more_fundamental"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Energy conservation", "relation": "B_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Galilean invariance", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of mass", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Total internal reflection", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Ohm's law", "relation": "A_more_fundamental"}
+{"principle_1": "Coulomb force", "principle_2": "Meissner–Ochsenfeld effect", "relation": "A_more_fundamental"}
+{"principle_1": "Meissner effect", "principle_2": "Microscopic reversibility", "relation": "B_more_fundamental"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Newton's second law", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of mass", "principle_2": "Friedmann equations", "relation": "A_more_fundamental"}
+{"principle_1": "Bragg's law", "principle_2": "Conservation of charge", "relation": "unrelated"}
+{"principle_1": "Mass-energy equivalence", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Newton's laws of motion", "principle_2": "Virial theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Meissner effect", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Mossbauer effect", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Newton's third law", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Gibbs phase rule", "relation": "unrelated"}
+{"principle_1": "Bragg's law", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Newton's law of universal gravitation", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Malus's law", "principle_2": "Newton's first law", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Maxwell's equations", "relation": "B_more_fundamental"}
+{"principle_1": "Hund's rules", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Poiseuille's law", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of mass", "principle_2": "Galilean relativity", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Friedmann equations", "relation": "A_more_fundamental"}
+{"principle_1": "Friedmann equations", "principle_2": "Newton's law of universal gravitation", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean relativity", "principle_2": "Newton's law of universal gravitation", "relation": "A_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Maxwell's equations", "relation": "B_more_fundamental"}
+{"principle_1": "Continuity equation", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Galilean invariance", "principle_2": "Law of universal gravitation", "relation": "A_more_fundamental"}
+{"principle_1": "Ginzburg criterion", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Exclusion principle", "relation": "unrelated"}
+{"principle_1": "Law of refraction", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Newton's law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Principle of least action", "principle_2": "Relativity", "relation": "A_more_fundamental"}
+{"principle_1": "Gauss's law", "principle_2": "Snell's law", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of energy", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Bragg's law", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Relativity", "relation": "B_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Rayleigh scattering", "relation": "A_more_fundamental"}
+{"principle_1": "Newton's first law", "principle_2": "Ohm's law", "relation": "A_more_fundamental"}
+{"principle_1": "Uncertainty principle", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Faraday's law", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of momentum", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Equipartition theorem", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Conservation of energy", "relation": "B_more_fundamental"}
+{"principle_1": "Kepler's laws", "principle_2": "Superposition principle", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Faraday's law", "relation": "unrelated"}
+{"principle_1": "Snell's law", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Snell's law", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Mossbauer effect", "relation": "A_more_fundamental"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Meissner–Ochsenfeld effect", "relation": "A_more_fundamental"}
+{"principle_1": "Newton's first law", "principle_2": "Virial theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Lenz's law", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Microscopic reversibility", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Newton's second law", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Meissner–Ochsenfeld effect", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Meissner effect", "relation": "A_more_fundamental"}
+{"principle_1": "Pauli exclusion principle", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Kepler's laws", "principle_2": "Law of conservation of mass", "relation": "unrelated"}
+{"principle_1": "Newton's law of cooling", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Coulomb's law", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Bragg's law", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of parity", "principle_2": "Piezoelectricity", "relation": "A_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Seebeck effect", "relation": "A_more_fundamental"}
+{"principle_1": "Energy conservation", "principle_2": "Kirchhoff's circuit laws", "relation": "A_more_fundamental"}
+{"principle_1": "Gibbs phase rule", "principle_2": "Photoelectric effect", "relation": "unrelated"}
+{"principle_1": "Exclusion principle", "principle_2": "Gibbs phase rule", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Continuity equation", "relation": "A_more_fundamental"}
+{"principle_1": "Piezoelectricity", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "First law of thermodynamics", "relation": "A_more_fundamental"}
+{"principle_1": "Equipartition theorem", "principle_2": "First law of thermodynamics", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of momentum", "principle_2": "Law of refraction", "relation": "A_more_fundamental"}
+{"principle_1": "Coulomb force", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Principle of equivalence", "principle_2": "Relativity", "relation": "B_more_fundamental"}
+{"principle_1": "Bragg's law", "principle_2": "Law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Coulomb's law", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "Pascal's law", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Uncertainty principle", "relation": "B_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Microscopic reversibility", "principle_2": "Newton's law of cooling", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of mass", "principle_2": "Poiseuille's law", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of mass", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Kirchhoff's circuit laws", "relation": "unrelated"}
+{"principle_1": "Mossbauer effect", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Faraday's law", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Galilean invariance", "principle_2": "Gauss's law", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Total internal reflection", "relation": "A_more_fundamental"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Ideal gas law", "relation": "unrelated"}
+{"principle_1": "Bragg's law", "principle_2": "Conservation of momentum", "relation": "B_more_fundamental"}
+{"principle_1": "Law of refraction", "principle_2": "Meissner effect", "relation": "unrelated"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Ohm's law", "relation": "A_more_fundamental"}
+{"principle_1": "Law of inertia", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Pauli exclusion principle", "principle_2": "Piezoelectricity", "relation": "A_more_fundamental"}
+{"principle_1": "Wave-particle duality", "principle_2": "Hund's rules", "relation": "A_more_fundamental"}
+{"principle_1": "Gauss's law", "principle_2": "Ohm's law", "relation": "A_more_fundamental"}
+{"principle_1": "Coulomb force", "principle_2": "Mossbauer effect", "relation": "A_more_fundamental"}
+{"principle_1": "Hubble's law", "principle_2": "Superposition principle", "relation": "unrelated"}
+{"principle_1": "Conservation of momentum", "principle_2": "Newton's second law", "relation": "B_more_fundamental"}
+{"principle_1": "Continuity equation", "principle_2": "Virial theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Maxwell's equations", "principle_2": "Magnus effect", "relation": "A_more_fundamental"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Law of reflection", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Newton's law of universal gravitation", "relation": "A_more_fundamental"}
+{"principle_1": "Exclusion principle", "principle_2": "Hydrostatic equilibrium", "relation": "A_more_fundamental"}
+{"principle_1": "Josephson effect", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Friedmann equations", "principle_2": "Newton's second law", "relation": "B_more_fundamental"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Photovoltaic effect", "relation": "A_more_fundamental"}
+{"principle_1": "Microscopic reversibility", "principle_2": "Newton's laws of motion", "relation": "B_more_fundamental"}
+{"principle_1": "Seebeck effect", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Kepler's laws", "principle_2": "Ohm's law", "relation": "unrelated"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Law of inertia", "relation": "unrelated"}
+{"principle_1": "Friedmann equations", "principle_2": "Galilean relativity", "relation": "B_more_fundamental"}
+{"principle_1": "Josephson effect", "principle_2": "Newton's second law", "relation": "unrelated"}
+{"principle_1": "Stefan–Boltzmann law", "principle_2": "Superposition principle", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Josephson effect", "relation": "unrelated"}
+{"principle_1": "Exclusion principle", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Maxwell's equations", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Josephson effect", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Newton's law of universal gravitation", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Newton's third law", "relation": "B_more_fundamental"}
+{"principle_1": "Lenz's law", "principle_2": "Snell's law", "relation": "unrelated"}
+{"principle_1": "Galilean relativity", "principle_2": "Kepler's laws", "relation": "A_more_fundamental"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Ideal gas law", "relation": "unrelated"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Kepler's laws", "principle_2": "Meissner effect", "relation": "unrelated"}
+{"principle_1": "Clausius inequality", "principle_2": "Poiseuille's law", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Kirchhoff's law of thermal radiation", "relation": "unrelated"}
+{"principle_1": "Schrödinger equation", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Ideal gas law", "principle_2": "Newton's second law", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Ampère's law", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Mass-energy equivalence", "relation": "unrelated"}
+{"principle_1": "Conservation of momentum", "principle_2": "Hubble's law", "relation": "A_more_fundamental"}
+{"principle_1": "Newton's first law", "principle_2": "Photovoltaic effect", "relation": "A_more_fundamental"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Coulomb's law", "relation": "unrelated"}
+{"principle_1": "Conservation of momentum", "principle_2": "Photovoltaic effect", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Relativity", "relation": "B_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Schrödinger equation", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Uncertainty principle", "relation": "B_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Poiseuille's law", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Microscopic reversibility", "relation": "unrelated"}
+{"principle_1": "Law of conservation of mass", "principle_2": "Photovoltaic effect", "relation": "A_more_fundamental"}
+{"principle_1": "Friedmann equations", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Universal gravitation", "principle_2": "Virial theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Ohm's law", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Faraday's law", "principle_2": "Newton's second law", "relation": "unrelated"}
+{"principle_1": "Hall effect", "principle_2": "Klein–Gordon equation", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Josephson effect", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Rayleigh scattering", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Law of inertia", "relation": "unrelated"}
+{"principle_1": "Friedmann equations", "principle_2": "Schrödinger equation", "relation": "unrelated"}
+{"principle_1": "Coulomb force", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Coulomb's law", "principle_2": "Hydrostatic equilibrium", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Galilean relativity", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Newton's first law", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of charge", "principle_2": "Meissner effect", "relation": "A_more_fundamental"}
+{"principle_1": "Hall effect", "principle_2": "Schrödinger equation", "relation": "B_more_fundamental"}
+{"principle_1": "Energy conservation", "principle_2": "Newton's second law", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean relativity", "principle_2": "Newton's first law", "relation": "A_more_fundamental"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Newton's first law", "relation": "A_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Ginzburg criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Newton's third law", "relation": "unrelated"}
+{"principle_1": "Rayleigh criterion", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Pascal's law", "relation": "B_more_fundamental"}
+{"principle_1": "Meissner effect", "principle_2": "Newton's first law", "relation": "unrelated"}
+{"principle_1": "Galilean invariance", "principle_2": "Weak equivalence principle", "relation": "unrelated"}
+{"principle_1": "Rayleigh scattering", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Newton's law of cooling", "principle_2": "Superposition principle", "relation": "B_more_fundamental"}
+{"principle_1": "Continuity equation", "principle_2": "Maxwell's equations", "relation": "B_more_fundamental"}
+{"principle_1": "Right-hand rule", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Ampère's law", "principle_2": "Tunnel effect", "relation": "unrelated"}
+{"principle_1": "Rayleigh scattering", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Magnus effect", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean invariance", "principle_2": "Photovoltaic effect", "relation": "A_more_fundamental"}
+{"principle_1": "Coulomb's law", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Law of refraction", "principle_2": "Pascal's law", "relation": "unrelated"}
+{"principle_1": "Hall effect", "principle_2": "Poiseuille's law", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Magnus effect", "relation": "A_more_fundamental"}
+{"principle_1": "Bragg's law", "principle_2": "Newton's laws of motion", "relation": "B_more_fundamental"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Lenz's law", "relation": "unrelated"}
+{"principle_1": "Right-hand rule", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Coulomb's law", "principle_2": "Piezoelectricity", "relation": "A_more_fundamental"}
+{"principle_1": "Piezoelectricity", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Electromagnetic induction", "principle_2": "Newton's third law", "relation": "B_more_fundamental"}
+{"principle_1": "Galilean invariance", "principle_2": "Poiseuille's law", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean relativity", "principle_2": "Klein–Gordon equation", "relation": "A_more_fundamental"}
+{"principle_1": "Ginzburg criterion", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Lenz's law", "principle_2": "Ginzburg criterion", "relation": "unrelated"}
+{"principle_1": "Ampère's law", "principle_2": "Electron degeneracy pressure", "relation": "unrelated"}
+{"principle_1": "Josephson effect", "principle_2": "Microscopic reversibility", "relation": "B_more_fundamental"}
+{"principle_1": "Kirchhoff's law of thermal radiation", "principle_2": "Mass-energy equivalence", "relation": "unrelated"}
+{"principle_1": "Galilean relativity", "principle_2": "Mass-energy equivalence", "relation": "unrelated"}
+{"principle_1": "Principle of least action", "principle_2": "Seebeck effect", "relation": "A_more_fundamental"}
+{"principle_1": "Lenz's law", "principle_2": "Piezoelectricity", "relation": "unrelated"}
+{"principle_1": "Law of universal gravitation", "principle_2": "Pauli exclusion principle", "relation": "unrelated"}
+{"principle_1": "Coulomb force", "principle_2": "Kirchhoff's circuit laws", "relation": "A_more_fundamental"}
+{"principle_1": "Gauss's law", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Law of inertia", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Rayleigh criterion", "relation": "A_more_fundamental"}
+{"principle_1": "Exclusion principle", "principle_2": "Uncertainty principle", "relation": "B_more_fundamental"}
+{"principle_1": "Schrödinger equation", "principle_2": "Seebeck effect", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean relativity", "principle_2": "Second law of thermodynamics", "relation": "unrelated"}
+{"principle_1": "Total internal reflection", "principle_2": "Photovoltaic effect", "relation": "unrelated"}
+{"principle_1": "Conservation of momentum", "principle_2": "Principle of superposition", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Virial theorem", "relation": "A_more_fundamental"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Malus's law", "relation": "unrelated"}
+{"principle_1": "Conservation of charge", "principle_2": "Hund's rules", "relation": "A_more_fundamental"}
+{"principle_1": "Faraday's law", "principle_2": "Heisenberg uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Principle of superposition", "relation": "B_more_fundamental"}
+{"principle_1": "Ampère's law", "principle_2": "Galilean invariance", "relation": "B_more_fundamental"}
+{"principle_1": "Principle of equivalence", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "Electron degeneracy pressure", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Microscopic reversibility", "relation": "unrelated"}
+{"principle_1": "Piezoelectricity", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Newton's law of cooling", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Josephson effect", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Law of universal gravitation", "principle_2": "Ohm's law", "relation": "unrelated"}
+{"principle_1": "Poiseuille's law", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Kirchhoff's law of thermal radiation", "relation": "unrelated"}
+{"principle_1": "Galilean invariance", "principle_2": "Superposition principle", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Josephson effect", "relation": "unrelated"}
+{"principle_1": "Rayleigh scattering", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Law of reflection", "principle_2": "Mass-energy equivalence", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Fresnel equations", "principle_2": "Malus's law", "relation": "A_more_fundamental"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Coulomb force", "relation": "unrelated"}
+{"principle_1": "Conservation of charge", "principle_2": "Josephson effect", "relation": "A_more_fundamental"}
+{"principle_1": "Newton's law of cooling", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Klein–Gordon equation", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Poiseuille's law", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Galilean invariance", "relation": "B_more_fundamental"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Conservation of momentum", "relation": "B_more_fundamental"}
+{"principle_1": "Hydrostatic equilibrium", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Law of reflection", "principle_2": "Newton's law of cooling", "relation": "unrelated"}
+{"principle_1": "Conservation of parity", "principle_2": "Ginzburg criterion", "relation": "unrelated"}
+{"principle_1": "Continuity equation", "principle_2": "Coulomb force", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Clausius inequality", "relation": "unrelated"}
+{"principle_1": "Coulomb force", "principle_2": "Lenz's law", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Rayleigh scattering", "relation": "A_more_fundamental"}
+{"principle_1": "Microscopic reversibility", "principle_2": "Uncertainty principle", "relation": "B_more_fundamental"}
+{"principle_1": "Stokes' law", "principle_2": "Magnus effect", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Relativity", "relation": "B_more_fundamental"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Seebeck effect", "relation": "A_more_fundamental"}
+{"principle_1": "Faraday's law", "principle_2": "Kirchhoff's law of thermal radiation", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Malus's law", "relation": "A_more_fundamental"}
+{"principle_1": "Hund's rules", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Equipartition theorem", "relation": "unrelated"}
+{"principle_1": "Law of reflection", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's law of thermal radiation", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Heisenberg uncertainty principle", "principle_2": "Klein–Gordon equation", "relation": "A_more_fundamental"}
+{"principle_1": "Hubble's law", "principle_2": "Newton's first law", "relation": "unrelated"}
+{"principle_1": "Piezoelectricity", "principle_2": "Spin statistics theorem", "relation": "B_more_fundamental"}
+{"principle_1": "Right-hand rule", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Newton's first law", "principle_2": "Newton's second law", "relation": "B_more_fundamental"}
+{"principle_1": "Snell's law", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Right-hand rule", "principle_2": "Universal gravitation", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Ginzburg criterion", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Stokes' law", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of mass", "principle_2": "Gibbs phase rule", "relation": "A_more_fundamental"}
+{"principle_1": "Clausius inequality", "principle_2": "Gibbs phase rule", "relation": "A_more_fundamental"}
+{"principle_1": "Continuity equation", "principle_2": "Hydrostatic equilibrium", "relation": "A_more_fundamental"}
+{"principle_1": "Newton's second law", "principle_2": "Principle of equivalence", "relation": "B_more_fundamental"}
+{"principle_1": "Archimedes' principle", "principle_2": "Exclusion principle", "relation": "unrelated"}
+{"principle_1": "Gibbs phase rule", "principle_2": "Klein–Gordon equation", "relation": "unrelated"}
+{"principle_1": "Ginzburg criterion", "principle_2": "Meissner–Ochsenfeld effect", "relation": "B_more_fundamental"}
+{"principle_1": "Galilean relativity", "principle_2": "Heisenberg uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Pauli exclusion principle", "principle_2": "Hund's rules", "relation": "A_more_fundamental"}
+{"principle_1": "Conservation of linear momentum", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Conservation of energy", "principle_2": "Snell's law", "relation": "A_more_fundamental"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Ginzburg criterion", "relation": "unrelated"}
+{"principle_1": "Faraday's law", "principle_2": "Law of universal gravitation", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Law of universal gravitation", "relation": "A_more_fundamental"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Seebeck effect", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Principle of least action", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of energy", "principle_2": "Gibbs phase rule", "relation": "A_more_fundamental"}
+{"principle_1": "Bragg's law", "principle_2": "Rayleigh scattering", "relation": "unrelated"}
+{"principle_1": "Microscopic reversibility", "principle_2": "Principle of equivalence", "relation": "unrelated"}
+{"principle_1": "Poiseuille's law", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Malus's law", "principle_2": "Relativity", "relation": "B_more_fundamental"}
+{"principle_1": "Gauss's law", "principle_2": "Kirchhoff's law of thermal radiation", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Ohm's law", "relation": "A_more_fundamental"}
+{"principle_1": "Newton's third law", "principle_2": "Piezoelectricity", "relation": "A_more_fundamental"}
+{"principle_1": "Galilean invariance", "principle_2": "Klein–Gordon equation", "relation": "unrelated"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Doppler effect", "principle_2": "Schrödinger equation", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's circuit laws", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Archimedes' principle", "principle_2": "Electron degeneracy pressure", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Klein–Gordon equation", "relation": "A_more_fundamental"}
+{"principle_1": "Rayleigh criterion", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Stokes' law", "relation": "A_more_fundamental"}
+{"principle_1": "Continuity equation", "principle_2": "Magnus effect", "relation": "A_more_fundamental"}
+{"principle_1": "Coulomb's law", "principle_2": "Galilean invariance", "relation": "unrelated"}
+{"principle_1": "Conservation of angular momentum", "principle_2": "Law of reflection", "relation": "unrelated"}
+{"principle_1": "Wave-particle duality", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Relativity", "principle_2": "Uncertainty principle", "relation": "unrelated"}
+{"principle_1": "Right-hand rule", "principle_2": "Ginzburg criterion", "relation": "unrelated"}
+{"principle_1": "Bernoulli's equation", "principle_2": "Second law of thermodynamics", "relation": "B_more_fundamental"}
+{"principle_1": "Gauss's law", "principle_2": "Newton's third law", "relation": "unrelated"}
+{"principle_1": "Hubble's law", "principle_2": "Law of conservation of mass", "relation": "unrelated"}
+{"principle_1": "Snell's law", "principle_2": "Virial theorem", "relation": "unrelated"}
+{"principle_1": "Maxwell's equations", "principle_2": "Newton's laws of motion", "relation": "unrelated"}
+{"principle_1": "Principle of least action", "principle_2": "Stokes' law", "relation": "A_more_fundamental"}
+{"principle_1": "First law of thermodynamics", "principle_2": "Newton's laws of motion", "relation": "unrelated"}
+{"principle_1": "Schrödinger equation", "principle_2": "Stokes' law", "relation": "unrelated"}
+{"principle_1": "Kirchhoff's law of thermal radiation", "principle_2": "Meissner–Ochsenfeld effect", "relation": "unrelated"}
+{"principle_1": "Conservation of mass", "principle_2": "Stefan–Boltzmann law", "relation": "unrelated"}
+{"principle_1": "Hubble's law", "principle_2": "Schrödinger equation", "relation": "unrelated"}
+{"principle_1": "Newton's third law", "principle_2": "Schrödinger equation", "relation": "unrelated"}
+{"principle_1": "Equipartition theorem", "principle_2": "Total internal reflection", "relation": "unrelated"}
+{"principle_1": "Ideal gas law", "principle_2": "Hund's rules", "relation": "unrelated"}
+{"principle_1": "Mossbauer effect", "principle_2": "Spin statistics theorem", "relation": "B_more_fundamental"}
+{"principle_1": "Conservation of parity", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Photoelectric effect", "principle_2": "Rayleigh criterion", "relation": "unrelated"}
+{"principle_1": "Josephson effect", "principle_2": "Right-hand rule", "relation": "unrelated"}
+{"principle_1": "Newton's first law", "principle_2": "Principle of superposition", "relation": "unrelated"}
+{"principle_1": "Energy conservation", "principle_2": "Spin statistics theorem", "relation": "unrelated"}
+{"principle_1": "Law of reflection", "principle_2": "Universal gravitation", "relation": "unrelated"}
