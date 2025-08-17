@@ -297,13 +297,13 @@ def main():
     )
     
     # Save plots
-    base_fig.write_html("physics_base_model_umap.html")
-    finetuned_fig.write_html("physics_finetuned_model_umap.html")
-    comparison_fig.write_html("physics_models_comparison.html")
+    # base_fig.write_html("umap-html/physics_base_model_umap.html")
+    # finetuned_fig.write_html("umap-html/physics_finetuned_model_umap.html")
+    comparison_fig.write_html("umap-html/physics_models_comparison.html")
     
     logging.info("Plots saved:")
-    logging.info("- physics_base_model_umap.html")
-    logging.info("- physics_finetuned_model_umap.html") 
+    # logging.info("- physics_base_model_umap.html")
+    # logging.info("- physics_finetuned_model_umap.html") 
     logging.info("- physics_models_comparison.html")
     
     # Show plots
