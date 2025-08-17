@@ -26,3 +26,6 @@ physics-embedding-model-large-*/
 *.log
 *.out
 *.tmp
+
+# Umap html files
+*.html
